@@ -110,7 +110,6 @@ news_limit: 8
 # Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge
-highlight_theme: github  # https://github.com/jwarby/jekyll-pygments-themes
 kramdown:
   input: GFM
   syntax_highlighter_opts:
@@ -135,17 +134,51 @@ keep_files:
 
 # Plug-ins
 plugins:
+  - jekyll-archives
+  - jekyll-diagrams
   - jekyll-email-protect
-  - jekyll-github-metadata
   - jekyll-feed
+  - jekyll-imagemagick
+  - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll/scholar
-  - jekyll-twitter-plugin
   - jekyll-sitemap
+  - jekyll-link-attributes
+  - jekyll-twitter-plugin
   - jemoji
 
-# Extras
-github: [metadata]
+# Sitemap settings
+defaults:
+  - scope:
+      path: "assets/**/*.*"
+    values:
+      sitemap: false
+
+# -----------------------------------------------------------------------------
+# Jekyll Minifier
+# -----------------------------------------------------------------------------
+
+jekyll-minifier:
+  exclude: ['robots.txt']
+  uglifier_args:
+    harmony: true
+
+# -----------------------------------------------------------------------------
+# Jekyll Archives
+# -----------------------------------------------------------------------------
+
+jekyll-archives:
+  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  layouts:
+    year: archive-year
+    tag: archive-tag
+    category: archive-category
+  permalinks:
+    year: '/blog/:year/'
+    tag: '/blog/tag/:name/'
+    category: '/blog/category/:name/'
+
+display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -153,8 +186,8 @@ github: [metadata]
 
 scholar:
 
-  last_name: Qiu
-  first_name: Chenxi
+  last_name: [Einstein]
+  first_name: [Albert, A.]
 
   style: apa
   locale: en
@@ -176,13 +209,64 @@ scholar:
 
   query: "@*"
 
+# Filter out certain bibtex entry keywords used internally from the bib output
+filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
+
+# Maximum number of authors to be shown for each publication (more authors are visible on click)
+max_author_limit: 3  # leave blank to always show all authors
+more_authors_animation_delay: 10  # more authors are revealed on click using animation; smaller delay means faster animation
+
+
+# -----------------------------------------------------------------------------
+# Jekyll Link Attributes
+# -----------------------------------------------------------------------------
+
+# These are the defaults
+external_links:
+  enabled: true
+  rel: external nofollow noopener
+  target: _blank
+  exclude:
+
+
+# -----------------------------------------------------------------------------
+# Responsive WebP Images
+# -----------------------------------------------------------------------------
+
+imagemagick:
+  enabled: true # enables responsive images for your site (recomended, see https://github.com/alshedivat/al-folio/issues/537)
+  widths:
+    - 480
+    - 800
+    - 1400
+  input_directories:
+    - assets/img/
+  input_formats:
+    - ".jpg"
+    - ".jpeg"
+    - ".png"
+    - ".tiff"
+  output_formats:
+    webp: "-resize 800x"
+
+# -----------------------------------------------------------------------------
+# Jekyll Diagrams
+# -----------------------------------------------------------------------------
+
+jekyll-diagrams:
+    # configuration, see https://github.com/zhustec/jekyll-diagrams.
+    # feel free to comment out this section if not using jekyll diagrams.
+
+
 # -----------------------------------------------------------------------------
 # Optional Features
 # -----------------------------------------------------------------------------
 
 enable_google_analytics:    false  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
-enable_mansory:             true   # enables automatic project cards arangement
+enable_google_verification: false  # enables google site verification
+enable_bing_verification:   false  # enables bing site verification
+enable_masonry:             true   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
@@ -192,38 +276,36 @@ enable_navbar_social:       false  # enables displaying social links in the
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
+enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
 
 # -----------------------------------------------------------------------------
 # Library versions
 # -----------------------------------------------------------------------------
 
 academicons:
-  version: "1.9.0"
-  integrity: "sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg=="
+  version: "1.9.1"
+  integrity: "sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg="
 bootstrap:
-  version: "4.5.2"
+  version: "4.6.1"
   integrity:
-    css: "sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg=="
-    js: "sha512-M5KW3ztuIICmVIhjSqXe01oV2bpe248gOxqmlcYrEzAvws7Pw3z6BK0iGbrwvdrUQUhi3eXgtxp5I8PDo9YfjQ=="
+    css: "sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY="
+    js: "sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="
 fontawesome:
-  version: "5.14.0"
-  integrity: "sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog=="
+  version: "5.15.4"
+  integrity: "sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4="
 jquery:
-  version: "3.5.1"
-  integrity: "sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg=="
+  version: "3.6.0"
+  integrity: "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
 mathjax:
   version: "3.2.0"
-mansory:
+masonry:
   version: "4.2.2"
   integrity: "sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI="
 mdb:
-  version: "4.19.1"
+  version: "4.20.0"
   integrity:
-    css: "sha512-RO38pBRxYH3SoOprtPTD86JFOclM51/XTIdEPh5j8sj4tp8jmQIx26twG52UaLi//hQldfrh7e51WzP9wuP32Q=="
-    js: "sha512-Mug9KHKmroQFMLm93zGrjhibM2z2Obg9l6qFG2qKjXEXkMp/VDkI4uju9m4QKPjWSwQ6O2qzZEnJDEeCw0Blcw=="
-popper:
-  version: "2.4.4"
-  integrity: "sha512-eUQ9hGdLjBjY3F41CScH3UX+4JDSI9zXeroz7hJ+RteoCaY+GP/LDoM8AO+Pt+DRFw3nXqsjh9Zsts8hnYv8/A=="
+    css: "sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw="
+    js: "sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA="
 medium_zoom:
   version: "1.0.6"
   integrity: "sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM="
