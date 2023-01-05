@@ -1,12 +1,13 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /Teaching/
+title: Teaching
 nav: true
-nav_order: 5
+display_categories: [graduate, undergraduate]
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**CSCE 2100 Computing Foundations I**: Fall 2021 
 
-Organize your courses by years, topics, or universities, however you like!
+**CSCE 5580 Computer Networks**: Spring 2023, Fall 2022, Spring 2022 
+
+**CSCE 6940 Individual Research**
