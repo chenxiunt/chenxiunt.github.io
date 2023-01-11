@@ -23,12 +23,9 @@ I am fortunate to work with several bright students:
     </div>
     <div class="col-sm-4">
         Sourabh received his MS degree in Artificial Intelligence and Robotics and have been an active researcher in the subject since 2018. Currently, he is working on location privacy protection in time-sensitive spatial crowdsourcing and cooperative perception of autonomous vehicles.  
-    </div>   
-</div>  
-
-<br>
-
-<div class="row justify-content-md-center">
+    </div>  
+    <br>
+    
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/people/Mingxuan.jpg' | relative_url }}" alt="" title="Mingxuan Li"/>
     </div>
@@ -43,6 +40,7 @@ I am fortunate to work with several bright students:
         Mingxuan Li received his MS degree in Circuit and System at Beijing Jiaotong University and BS degree in Electronic Information Engineering at Capital Normal University in China. He was a senior Engineer in China Unicom Research Institute, and was engaged in research of cutting-edge technologies such as cloud computing, cloud-native, edge computing, and mobile Internet. Currently, he is working on location privacy problems in mobile crowdsourcing, deep generative models, etc.  
     </div>   
 </div>  
+
 <br clear="left"/>
 
 
