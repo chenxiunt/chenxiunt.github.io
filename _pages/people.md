@@ -29,6 +29,8 @@ I am fortunate to work with several bright students:
     <div class="col-sm-5">
         Sourabh received his MS degree in Artificial Intelligence and Robotics and have been an active researcher in the subject since 2018. Currently, he is working on location privacy protection in time-sensitive spatial crowdsourcing and cooperative perception of autonomous vehicles.  
     </div>  
+    <br>
+    
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/people/Mingxuan.jpg' | relative_url }}" alt="" title="Mingxuan Li"/>
     </div>
