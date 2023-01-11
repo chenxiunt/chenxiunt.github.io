@@ -36,8 +36,8 @@ I am fortunate to work with several bright students:
         <b>Mingxuan Li</b> <br>
         Ph.D. student (2023 Spring --) <br><br>
         Cloud computing, Spatial Computing, and Data privacy<br><br>
-        Email: limx59 AT ieee.org <br>
-        <a href="[https://scholar.google.com/citations?user=Luc18E4AAAAJ&hl=en](https://scholar.google.com/citations?user=3cG4lEEAAAAJ&hl=zh-CN&authuser=2)">Google scholar</a>
+        Email: LiMingxuan AT my.unt.edu <br>
+        <a href="https://scholar.google.com/citations?user=3cG4lEEAAAAJ&hl=zh-CN&authuser=2">Google scholar</a>
     </div>
     <div class="col-sm-4">
         Mingxuan Li received his MS degree in Circuit and System at Beijing Jiaotong University and BS degree in Electronic Information Engineering at Capital Normal University in China. He was a senior Engineer in China Unicom Research Institute, and was engaged in research of cutting-edge technologies such as cloud computing, cloud-native, edge computing, and mobile Internet. Currently, he is working on location privacy problems in mobile crowdsourcing, deep generative models, etc.  
