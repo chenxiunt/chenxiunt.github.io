@@ -22,6 +22,6 @@ Dr. Qiu received his Ph.D. degree in The Holcombe Department of Electrical and C
 
 Dr. Qiu's research interests span the areas of **mobile crowdsourcing** and **vehicle information systems**. His research results have been published in highly-competitive conferences and journals (e.g., INFOCOM, AAMAS, SIGSPATIAL, IPSN, ICDCS, CIKM, Transactions on Networking (ToN), Transactions on Cloud Computing (TCC), Transactions on Mobile Computing (TMC), Transactions on Parallel and Distributed Systems (TPDS), and Transactions on Computers (TC)). His CV can be found [here](https://github.com/chenxiunt/chenxiunt.github.io/blob/fdd3ece5ee456db77bf4498ff83c69ffed559801/assets/pdf/CV2021.pdf). 
 
-**To prospective students: Multiple research assistant positions are available. I am looking for self-motivated students who are interested in the areas of data security&privacy and IoT applications. If you are interested, please e-mail me with your CV and transcripts.**
+**To prospective students: Multiple research assistant positions are available. I am looking for self-motivated students who are interested in the areas of mobile computing and spatial computing. If you are interested, please e-mail me with your CV and transcripts.**
 
 ---
