@@ -188,10 +188,6 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
   last_name: [Qiu]
   first_name: [Chenxi]
-  
-scholar:
-  last_name: [Pang]
-  first_name: [Ce]
 
   style: apa
   locale: en
