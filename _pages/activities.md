@@ -5,6 +5,15 @@ title: Activities
 nav: false
 ---
 
+<div class="row justify-content-md-center">
+    <div class="col-sm-3">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/activity/ICDE2023.jpg' | relative_url }}" alt=""/>
+    </div>
+    <div class="col-sm-8">
+        <b>IEEE ICDE 2023 (04/03/2022 -- 04/07/2023)</b> <br><br>
+        From April 3rd to 7th, 2023, I attended the The 39th IEEE ICDE 2023 in Anaheim, CA. Primal and I presented our demo paper <b>CORGI: An interactive framework for Customizable and Robust Location Obfuscation</b>. <br>
+    </div>
+</div> 
 
 <div class="row justify-content-md-center">
     <div class="col-sm-3">
@@ -30,5 +39,7 @@ nav: false
     </div>
 </div>      
     
+    
+   
 
 
