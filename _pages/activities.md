@@ -15,6 +15,8 @@ nav: false
     </div>
 </div> 
 
+<br><br>
+
 <div class="row justify-content-md-center">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/activity/SIGSPATIAL2022.jpg' | relative_url }}" alt=""/>
