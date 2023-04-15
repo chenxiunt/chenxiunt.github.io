@@ -8,4 +8,4 @@ importance: 3
 
 **Task 1: Customizable geo-obfuscation.**
 
-Publications: **EDBT 2023** **ICDE 2023**
+Publications: **EDBT 2023**, **ICDE 2023**
