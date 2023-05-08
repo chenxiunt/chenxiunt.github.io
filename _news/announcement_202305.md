@@ -4,4 +4,4 @@ date: 2023-05-08 15:59:00-0400
 inline: true
 ---
 
-Our paper about content sharing design in social networks was accepted by UAI 2023. 
+Our paper about content sharing design in social networks was accepted by **UAI 2023**. 
