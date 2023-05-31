@@ -60,7 +60,7 @@ horizontal: false
 
 **Sole PI**, “*SaTC: CORE: Small: Customizable Geo-Obfuscation to Protect Users' Location Privacy in Mobile Crowdsourcing*”, NSF, 07/01/2023 - 06/30/2026, $344,997
 
-**PI**, “*Collaborative Research: SaTC: CORE: Small: Privacy protection of Vehicles location in Spatial Crowdsourcing under realistic adversarial models*”, NSF, 01/01/2021 - 12/31/2023, $227,107
+**PI**, “*Collaborative Research: SaTC: CORE: Small: Privacy protection of Vehicles location in Spatial Crowdsourcing under realistic adversarial models*”, NSF, 01/01/2021 - 12/31/2023, $243,107
 
 Co-PI, “*Power Grid SCADA System Security Solution Evaluation*”, Protect Our Power, 08/01/2020 - 01/31/2021, Shared credit: $12,500
 
