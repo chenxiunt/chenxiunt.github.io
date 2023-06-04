@@ -33,9 +33,7 @@ Session chair of The IEEE International Conference on Distributed Computing Syst
 
 **Technical Programm Committee (TPC) Member**
 
-The ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL) 2023
-
-The ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL) 2022
+The ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL) 2022, 2023
 
 The ACM Workshop on Privacy in the Electronic Society (WPES) 2022
 
@@ -51,15 +49,15 @@ The IEEE Wireless Communications and Networking Conference (WCNC) 2020
 
 **Journal Reviewr**
 
-2022, 2021, 2020, 2017: IEEE Transactions on Mobile Computing (TMC)
+2023, 2022, 2021, 2020, 2017: IEEE Transactions on Mobile Computing (TMC)
 
 2022: Transactions on Intelligent Transportation Systems (T-ITS)
 
 2022: IEEE Transactions on Dependable and Secure Computing (TDSC)
 
-2022, 2016: IEEE Communications Letters (CL)
+2023, 2022, 2016: IEEE Communications Letters (CL)
 
-2022, 2021, 2018, 2015: IEEE/ACM Transactions on Networking (ToN)
+2023, 2022, 2021, 2018, 2015: IEEE/ACM Transactions on Networking (ToN)
 
 2022: An International Journal on Advances of Computer Science for Geographic Information Systems (GeoInformatica)
 
