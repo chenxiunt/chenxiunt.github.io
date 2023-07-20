@@ -1,7 +1,7 @@
 ---
 layout: page
-title: SpatialAgent A Spatial Crowdsourcing Platform to Assign Spatial Tasks Crowdsourced Workers
-description: The goal of this project is to design customizable geo-obfuscation to protect workers' location privacy in mobile crowdsourcing. 
+title: SpatialAgent A Spatial 
+description: A crowdsourcing platform to assign spatial tasks efficiently to crowdsourced workers. 
 img: /assets/img/obfuscation_tree.png
 importance: 2
 ---
