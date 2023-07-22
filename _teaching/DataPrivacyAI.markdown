@@ -12,35 +12,34 @@ Study of problems and limitations associated with interconnecting computers by c
 
 
 ### Topics to be covered ###
-* Computer Networks and the Internet 
-* Application Layer 
-* Transport Layer 
-* Network Layer 
-* Link Layer
-* Mobile Networks
-* Network security
+* Data Privacy Protection Mechanisms
+  * Anonymization
+  * Cryptography
+  * Data perturbation
+* Differential Privacy
+  * General Differential Privacy
+  * Metric Differential Privacy
+  * Context-Aware Indistinguishability
+* AI-based Inference Models
+  * Classic Inference models 
+  * Machine Learning models
+  * Deep Neural Networks
+* Generative Adversarial Privacy
+  * Generative Adversarial Networks
+  * Autoencoders
+  * Generative Adversarial Privacy
+* Case Study 1: Location Privacy Protection in Spatial Crowdsourcing
+* Case Study 2: Data Privacy Protection in Demographic Analysis
 
 ### Outcomes ###
-* Understand a conceptual view of the role of computers in communications. 
-* Understand communication protocols on the Internet. 
-* Be able to do fundamental network programming. 
-* Understand different network architectures. 
-* Recognize the role of application protocols. 
-* Understand different routing and forwarding protocols.
+TBD
 
 ### Assessments ###
-Assignments       | Weight
------------------ | -------------
-Homeoworks        | 30%
-2 Midterm Exams   | 40%
-Final Exam        | 25%
-Attendance        | 5%
+TBD
 
 
 ### Seminar ###
-* Title: *Differential Privacy in Crowdsourcing Systems*
-* Abstract: TBD
-* Lecturer: Chenxi Qiu
+TBD
 
 
 ### Projects ###
