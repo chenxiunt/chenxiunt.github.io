@@ -6,16 +6,16 @@ img: /assets/img/CSCE5580.png
 importance: 1
 ---
 
-**Textbook** 
+### Textbook ###
 
 A Top-Down Approach 7th edition, Kurose and Ross, Pearson 2016. 
 
-**Course Description**
+### Course Description ###
 
 Study of problems and limitations associated with interconnecting computers by communication networks. ISO reference model, the architecture of circuits, message, and packet switching networks, network topology, routing, flow control, capacity assignment, protocols, coding, and multiplexing.
 
 
-**Topics to be covered**
+### Topics to be covered ###
 * Computer Networks and the Internet 
 * Application Layer 
 * Transport Layer 
@@ -24,7 +24,7 @@ Study of problems and limitations associated with interconnecting computers by c
 * Mobile Networks
 * Network security
 
-**Outcomes**
+### Outcomes ###
 * Understand a conceptual view of the role of computers in communications. 
 * Understand communication protocols on the Internet. 
 * Be able to do fundamental network programming. 
@@ -32,7 +32,7 @@ Study of problems and limitations associated with interconnecting computers by c
 * Recognize the role of application protocols. 
 * Understand different routing and forwarding protocols.
 
-**Assessments**
+### Assessments ###
 
 Assignments       | Weight
 ----------------- | -------------
