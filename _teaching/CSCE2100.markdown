@@ -2,7 +2,7 @@
 layout: page
 title: Privacy-Preserving Data Sharing for Connected Autonomous Vehicles
 description: Introduces students to both data structures and formalisms used in computer science, such as asymptotic behavior of algorithms.. 
-img: /assets/img/CSCE2100.jpg
+img: /assets/img/CSCE2100.png
 importance: 1
 ---
 
