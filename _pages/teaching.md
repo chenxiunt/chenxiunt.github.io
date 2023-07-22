@@ -5,47 +5,47 @@ permalink: /Teaching/
 nav: true
 horizontal: false
 ---
-<div class="projects">
+<div class="teaching">
   {% if site.enable_teaching_categories and page.display_categories %}
-  <!-- Display categorized projects -->
+  <!-- Display categorized teaching -->
     {% for category in page.display_categories %}
       <h2 class="category">{{category}}</h2>
-      {% assign categorized_teaching = site.projects | where: "category", category %}
+      {% assign categorized_teaching = site.teaching | where: "category", category %}
       {% assign sorted_teaching = categorized_teaching | sort: "importance" %}
       <!-- Generate cards for each project -->
       {% if page.horizontal %}
         <div class="container">
           <div class="row row-cols-2">
           {% for project in sorted_teaching %}
-            {% include projects_horizontal.html %}
+            {% include teaching_horizontal.html %}
           {% endfor %}
           </div>
         </div>
       {% else %}
         <div class="grid">
           {% for project in sorted_teaching %}
-            {% include projects.html %}
+            {% include teaching.html %}
           {% endfor %}
         </div>
       {% endif %}
     {% endfor %}
 
   {% else %}
-  <!-- Display projects without categories -->
-    {% assign sorted_teaching = site.projects | sort: "importance" %}
+  <!-- Display teaching without categories -->
+    {% assign sorted_teaching = site.teaching | sort: "importance" %}
     <!-- Generate cards for each project -->
     {% if page.horizontal %}
       <div class="container">
         <div class="row row-cols-2">
         {% for project in sorted_teaching %}
-          {% include projects_horizontal.html %}
+          {% include teaching_horizontal.html %}
         {% endfor %}
         </div>
       </div>
     {% else %}
       <div class="grid">
         {% for project in sorted_teaching %}
-          {% include projects.html %}
+          {% include teaching.html %}
         {% endfor %}
       </div>
     {% endif %}
