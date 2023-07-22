@@ -41,7 +41,7 @@ Final Exam        | 25%
 Attendance        | 5%
 
 
-### Seminars ###
+### Seminar ###
 * Title: *Differential Privacy in Crowdsourcing Systems*
 * Abstract: TBD
 * Lecturer: Chenxi Qiu
