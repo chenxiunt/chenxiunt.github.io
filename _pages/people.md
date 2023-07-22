@@ -37,18 +37,16 @@ I am fortunate to work with several bright students:
 
 -----------------------
 **Master Students**
-
-Harshitha Gorrepati (2022 Spring --) 
-
-Bharath Datta Chary Vadla (2022 Fall --)
+* Harshitha Gorrepati (2022 Spring --) 
+* Bharath Datta Chary Vadla (2022 Fall --)
 
 
 -----------------------
 **Alumni**
-
-Ce Pang (B.S., 2020) Currently studying at Santa Clara University and still collaborating with our lab. 
-
-Tanuja Polineni (M.S., 2022) Current employment: Tricentis
+* Ervin Centeno (B.S. at Rowan University, 2019) First employment: Digital Associate at Wal Mart
+* Ce Pang (B.S. at Rowan University, 2020) First employment: Software Engineer at Barclays Bank US. 
+* Pinal Mehta (M.S. at Rowan University, 2020) First employment: Software Engineer at IBM.  
+* Tanuja Polineni (M.S. at UNT, 2022) First employment: Software Engineer at Tricentis
 
 <div class="people">
 
