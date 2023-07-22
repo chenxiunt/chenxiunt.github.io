@@ -57,7 +57,7 @@ horizontal: false
 
 ---
 
-### Teaching Schedule ###
+### Teaching Schedules ###
 
 **CSCE 2100 Computing Foundations I**: Fall 2021 
 
