@@ -2,7 +2,7 @@
 layout: page
 title: SpatialAgent
 description: A crowdsourcing platform to assign spatial tasks efficiently to crowdsourced workers. 
-img: /assets/img/obfuscation_tree.png
+img: /assets/img/project-spatialagent.png
 importance: 2
 ---
 
