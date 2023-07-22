@@ -13,14 +13,14 @@ Introduces students to both data structures and formalisms used in computer scie
 ### Expected Student Outcomes ###
 
 Student Outcomes are measurable achievements to be accomplished by the completion of the degree.  These outcomes are evaluated as part of our ABET accreditation process.
-* Computer Engineering Students
+* **Computer Engineering Students**
     * An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.
     * An ability to acquire and apply new knowledge as needed, using appropriate learning strategies
-* Computer Science Students: 
+* **Computer Science Students**
     * Analyze a complex computing problem and apply principles of computing and other relevant disciplines to identify solutions.
     * Design, implement and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline.
     * Apply computer science theory and software development fundamentals to produce computing-based solutions.
- * Information Technology Students: 
+ * **Information Technology Students**
     * Analyze a complex computing problem and apply principles of computing and other relevant disciplines to identify solutions.
     * Design, implement and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline.
     * Identify and analyze user needs and take them into account in the selection, creation, integration, evaluation, and administration of computing-based systems.
