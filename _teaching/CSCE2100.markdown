@@ -2,7 +2,7 @@
 layout: page
 title: CSCE 2100 Foundations of Computing 1
 description: Introduces both data structures and formalisms used in computer science, such as asymptotic behavior of algorithms.. 
-img: /assets/img/CSCE2100.png
+img: /assets/img/teaching-CSCE2100.png
 importance: 1
 ---
 
