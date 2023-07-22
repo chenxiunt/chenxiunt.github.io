@@ -5,7 +5,7 @@ permalink: /Teaching/
 nav: true
 horizontal: false
 ---
-<div class="projects">
+<div class="teaching">
   {% if site.enable_teaching_categories and page.display_categories %}
   <!-- Display categorized projects -->
     {% for category in page.display_categories %}
@@ -31,8 +31,8 @@ horizontal: false
     {% endfor %}
 
   {% else %}
-  <!-- Display projects without categories -->
-    {% assign sorted_projects = site.projects | sort: "importance" %}
+  <!-- Display teaching without categories -->
+    {% assign sorted_projects = site.teaching | sort: "importance" %}
     <!-- Generate cards for each project -->
     {% if page.horizontal %}
       <div class="container">
