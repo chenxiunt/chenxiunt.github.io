@@ -24,3 +24,18 @@ Study of problems and limitations associated with interconnecting computers by c
 * Mobile Networks
 * Network security
 
+**Outcomes**
+* Understand a conceptual view of the role of computers in communications. 
+* Understand communication protocols in the Internet. 
+* Be able to do fundamental network programming. 
+* Understand different network architecture. 
+* Recognize the role of application protocols. 
+* Understand different routing and forwarding protocols.
+
+**Assessments**
+Assignments   | Weight
+------------- | -------------
+Homeowork assignments  | 30%
+2 Midterm Exams  | 40%
+Final Exam  | 25%
+Attendance  | 5%
