@@ -42,7 +42,7 @@ Final Exam        | 25%
 Attendance        | 5%
 
 ### Seminars ###
-TBD
+Differential Privacy in Crowdsourcing Systems
 
 ### Projects ###
 TBD
