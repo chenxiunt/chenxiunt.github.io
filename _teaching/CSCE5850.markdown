@@ -1,0 +1,9 @@
+---
+layout: page
+title: CSCE 5850 Foundations of Computing 1
+description: Introduce basic concepts, models, and protocols in computer networks, including the OSI model and network security. 
+img: /assets/img/CSCE2100.png
+importance: 1
+---
+
+**Syllabus.**
