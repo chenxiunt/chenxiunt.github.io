@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /Teaching/
 title: Teaching
+permalink: /Teaching/
 nav: true
-display_categories: [graduate, undergraduate]
+horizontal: false
 ---
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
