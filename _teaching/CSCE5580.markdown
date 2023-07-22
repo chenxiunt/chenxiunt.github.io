@@ -42,9 +42,9 @@ Attendance        | 5%
 
 
 ### Seminars ###
-* **Title**: ***Differential Privacy in Crowdsourcing Systems***
-* **Abstract**: TBD
-* **Lecturer**: Chenxi Qiu
+* Title: *Differential Privacy in Crowdsourcing Systems*
+* Abstract: TBD
+* Lecturer: Chenxi Qiu
 
 
 ### Projects ###
