@@ -41,7 +41,7 @@ Course Outcomes are measurable achievements to be accomplished by the completion
 
 Assignments            | Weight
 ---------------------- | -------
-Homeowork assignments  | 30%
+Homeoworks             | 30%
 2 Midterm Exams        | 40%
 Final Exam             | 25%
 Attendance             | 5%
