@@ -42,7 +42,8 @@ Final Exam        | 25%
 Attendance        | 5%
 
 ### Seminars ###
-Title: Differential Privacy in Crowdsourcing Systems
+* **Title**: ***Differential Privacy in Crowdsourcing Systems***
+* **Abstract**: 
 
 ### Projects ###
 TBD
