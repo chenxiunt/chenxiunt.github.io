@@ -6,6 +6,4 @@ img: /assets/img/CSCE2100.jpg
 importance: 1
 ---
 
-**Task 1: Data exchange decision making.**
-
-Publications: **ICDCS 2022**
+**Syllabus.**
