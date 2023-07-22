@@ -16,18 +16,11 @@ Study of problems and limitations associated with interconnecting computers by c
 
 
 **Topics to be covered**
-
 Computer Networks and the Internet 
-
 Application Layer 
-
 Transport Layer 
-
 Network Layer 
-
 Link Layer
-
 Mobile Networks
-
 Network security
 
