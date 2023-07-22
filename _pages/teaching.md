@@ -10,20 +10,20 @@ horizontal: false
   <!-- Display categorized projects -->
     {% for category in page.display_categories %}
       <h2 class="category">{{category}}</h2>
-      {% assign categorized_projects = site.projects | where: "category", category %}
-      {% assign sorted_projects = categorized_projects | sort: "importance" %}
+      {% assign categorized_teaching = site.projects | where: "category", category %}
+      {% assign sorted_teaching = categorized_teaching | sort: "importance" %}
       <!-- Generate cards for each project -->
       {% if page.horizontal %}
         <div class="container">
           <div class="row row-cols-2">
-          {% for project in sorted_projects %}
+          {% for project in sorted_teaching %}
             {% include projects_horizontal.html %}
           {% endfor %}
           </div>
         </div>
       {% else %}
         <div class="grid">
-          {% for project in sorted_projects %}
+          {% for project in sorted_teaching %}
             {% include projects.html %}
           {% endfor %}
         </div>
@@ -32,19 +32,19 @@ horizontal: false
 
   {% else %}
   <!-- Display projects without categories -->
-    {% assign sorted_projects = site.projects | sort: "importance" %}
+    {% assign sorted_teaching = site.projects | sort: "importance" %}
     <!-- Generate cards for each project -->
     {% if page.horizontal %}
       <div class="container">
         <div class="row row-cols-2">
-        {% for project in sorted_projects %}
+        {% for project in sorted_teaching %}
           {% include projects_horizontal.html %}
         {% endfor %}
         </div>
       </div>
     {% else %}
       <div class="grid">
-        {% for project in sorted_projects %}
+        {% for project in sorted_teaching %}
           {% include projects.html %}
         {% endfor %}
       </div>
