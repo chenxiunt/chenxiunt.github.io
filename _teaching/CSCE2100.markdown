@@ -6,7 +6,7 @@ img: /assets/img/CSCE2100.png
 importance: 1
 ---
 
-**Course Description**
+###Course Description###
 
 Introduces students to both data structures and formalisms used in computer science, such as the asymptotic behavior of algorithms. Data structures and formalisms are used to both describe and evaluate those data structures simultaneously. By the end of the two-semester sequence of which this course is the first part, each student will have a solid foundation in conceptual and formal models, efficiency, and levels of abstraction as used in the field of computer science.
 
