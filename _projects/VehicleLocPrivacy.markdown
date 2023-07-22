@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vehicular Geo-Obfuscation
+title: Vehicle Location Privacy
 description: The goal of this project is to protect vehicle location privacy in various location based applications. 
 img: /assets/img/project-V-obfuscation.png
 importance: 1
