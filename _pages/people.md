@@ -44,6 +44,7 @@ I am fortunate to work with several bright students:
 -----------------------
 **Alumni**
 * Ervin Centeno (B.S. at Rowan University, 2019) First employment: Digital Associate at Wal Mart
+* Shangwen Ma (B.S. at Rowan University, 2019) Transferred to University of Colorado Boulder
 * Ce Pang (B.S. at Rowan University, 2020) First employment: Software Engineer at Barclays Bank US. 
 * Pinal Mehta (M.S. at Rowan University, 2020) First employment: Software Engineer at IBM.  
 * Tanuja Polineni (M.S. at UNT, 2022) First employment: Software Engineer at Tricentis
