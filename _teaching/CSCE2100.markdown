@@ -10,7 +10,7 @@ importance: 1
 
 Introduces students to both data structures and formalisms used in computer science, such as the asymptotic behavior of algorithms. Data structures and formalisms are used to both describe and evaluate those data structures simultaneously. By the end of the two-semester sequence of which this course is the first part, each student will have a solid foundation in conceptual and formal models, efficiency, and levels of abstraction as used in the field of computer science.
 
-**Expected Student Outcomes**
+### Expected Student Outcomes ###
 
 Student Outcomes are measurable achievements to be accomplished by the completion of the degree.  These outcomes are evaluated as part of our ABET accreditation process.
 * Computer Engineering Students
@@ -25,7 +25,7 @@ Student Outcomes are measurable achievements to be accomplished by the completio
     * Design, implement and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline.
     * Identify and analyze user needs and take them into account in the selection, creation, integration, evaluation, and administration of computing-based systems.
   
-**Course Outcomes** 
+### Course Outcomes ###
 
 Course Outcomes are measurable achievements to be accomplished by the completion of the course.  These outcomes are evaluated as part of our ABET accreditation process.
 * Define and use the basic operations of sets, functions, and relations.
@@ -37,7 +37,7 @@ Course Outcomes are measurable achievements to be accomplished by the completion
 * Demonstrate a solid foundation in conceptual and formal models by describing loop structures in summation and/or product notation.
 * Demonstrate an introductory knowledge of finite state machines.
 
-**Assessments**
+### Assessments ###
 
 Assignments            | Weight
 ---------------------- | -------
