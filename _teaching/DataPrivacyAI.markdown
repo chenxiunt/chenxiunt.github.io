@@ -8,8 +8,7 @@ importance: 3
 
 ### Course Description ###
 
-Study of problems and limitations associated with interconnecting computers by communication networks. ISO reference model, the architecture of circuits, message, and packet switching networks, network topology, routing, flow control, capacity assignment, protocols, coding, and multiplexing.
-
+This course introduces how the advancement of machine learning and deep learning techniques raise new challenges to protect user data privacy as well as how those new techniques can enhance data privacy. 
 
 ### Topics to be covered ###
 * Data Privacy Protection Mechanisms
