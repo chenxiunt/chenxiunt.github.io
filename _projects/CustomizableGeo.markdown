@@ -2,7 +2,7 @@
 layout: page
 title: Customizable Obfuscation
 description: The goal of this project to design customizable geo-obfuscation to protect workers' location privacy in mobile crowdsourcing. 
-img: /assets/img/obfuscation_tree.png
+img: /assets/img/project-CustomizableGeo.png
 importance: 4
 ---
 
