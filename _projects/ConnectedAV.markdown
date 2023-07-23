@@ -2,7 +2,7 @@
 layout: page
 title: Cooperative Perception
 description: The goal of this project is to design privacy-preserving data-sharing strategies for connected autonomous vehicles (CAV). 
-img: /assets/img/connected_vehicles.jpg
+img: /assets/img/project-CP.png
 importance: 3
 ---
 
