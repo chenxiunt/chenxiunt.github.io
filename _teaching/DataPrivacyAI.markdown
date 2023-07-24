@@ -34,7 +34,7 @@ This course introduces how the advancement of machine learning and deep learning
 * **Case Study (6 classes)**
   * Location Privacy Protection in Spatial Crowdsourcing (2 classes)
   * Data Privacy Protection in Demographic Analysis (2 classes)
-  * Report (2 classes)
+  * Final Report (2 classes)
 
 ### Outcomes ###
 TBD
