@@ -14,7 +14,7 @@ The primary purpose of this project is to develop an efficient and privacy-centr
 ### Major Goals of Framework ###
 * Privacy Protection
   * The project's foremost goal is to implement robust privacy protection measures for both patients and responders. By utilizing obfuscation techniques and the LIH algorithm, the system ensures that responders' locations remain confidential, mitigating potential risks associated with sharing sensitive information.
-* Indoor Navigation
+  * Indoor Navigation
 A key objective of the project is to facilitate seamless indoor navigation for responders. By preparing a directed graph of building layouts, the system can generate optimal paths, enabling responders to navigate complex indoor environments and locate patients effectively.
 
 ### Frontend Implementation: User Interface and User Experience ### 
