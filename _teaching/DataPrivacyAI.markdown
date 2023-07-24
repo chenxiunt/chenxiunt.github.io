@@ -12,10 +12,11 @@ This course introduces how the advancement of machine learning and deep learning
 
 ### Topics to be covered ###
 * **Introduction (1 class)**
-* **Data Privacy Protection Mechanisms (6 classes)**
-  * Data perturbation (2 classes + 1 lab)
+* **Data Privacy Protection Mechanisms (5 classes)**
+  * Data perturbation (2 classes)
   * Cryptography (1 class)
   * Anonymization (1 class)
+  * Discussion (1 class)
 * **Differential Privacy (6 classes)** 
   * General Differential Privacy (2 classes)
   * Metric Differential Privacy (2 classes)
