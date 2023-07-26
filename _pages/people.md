@@ -49,6 +49,40 @@ I am fortunate to work with several bright students:
 </div>  
 <br>
 
+<div class="row justify-content-md-center">
+    <div class="col-sm-3">
+        
+    </div>
+    <div class="col-sm-4">
+        <b>Gaoyi Chen</b> <br>
+        Ph.D. student (2023 Fall --) <br><br>
+        TBD <br><br>
+        Email: TBD <br>
+        
+    </div>
+    <div class="col-sm-5">
+        TBD  
+    </div>  
+</div>  
+<br>
+
+<div class="row justify-content-md-center">
+    <div class="col-sm-3">
+        
+    </div>
+    <div class="col-sm-4">
+        <b>Ruiyao Liu</b> <br>
+        Ph.D. student (2023 Fall --) <br><br>
+        TBD <br><br>
+        Email: TBD <br>
+        
+    </div>
+    <div class="col-sm-5">
+        TBD  
+    </div>  
+</div>  
+<br>
+
 <br clear="left"/>
 
 
