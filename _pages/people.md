@@ -44,7 +44,7 @@ I am fortunate to work with several bright students:
         
     </div>
     <div class="col-sm-5">
-        Xinpeng received his BS degree in Automation and Control Engineering from Sichuan University, P. R. China. 
+        Xinpeng received his BS degree in Automation from Sichuan University, P. R. China. 
     </div>  
 </div>  
 <br>
@@ -78,7 +78,7 @@ I am fortunate to work with several bright students:
         
     </div>
     <div class="col-sm-5">
-        Ruiyao received his BS degree in Automation and Control Engineering from Sichuan University, P. R. China.  
+        Ruiyao received his BS degree in Automation from Sichuan University, P. R. China.  
     </div>  
 </div>  
 <br>
