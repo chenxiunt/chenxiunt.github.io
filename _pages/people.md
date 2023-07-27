@@ -39,7 +39,7 @@ I am fortunate to work with several bright students:
     <div class="col-sm-4">
         <b>Xinpeng Xie</b> <br>
         Ph.D. student (2023 Fall --) <br><br>
-        Autonomous vehicle perception <br><br>
+        Sensor perception <br><br>
         Email: TBD <br>
         
     </div>
