@@ -39,12 +39,12 @@ I am fortunate to work with several bright students:
     <div class="col-sm-4">
         <b>Xinpeng Xie</b> <br>
         Ph.D. student (2023 Fall --) <br><br>
-        TBD <br><br>
+        Autonomous vehicle perception <br><br>
         Email: TBD <br>
         
     </div>
     <div class="col-sm-5">
-        TBD  
+        Xinpeng received his BS degree in Automation and Control Engineering from Sichuan University, P. R. China. 
     </div>  
 </div>  
 <br>
@@ -56,12 +56,12 @@ I am fortunate to work with several bright students:
     <div class="col-sm-4">
         <b>Gaoyi Chen</b> <br>
         Ph.D. student (2023 Fall --) <br><br>
-        TBD <br><br>
+        Data privacy <br><br>
         Email: TBD <br>
         
     </div>
     <div class="col-sm-5">
-        TBD  
+        Gaoyi received his BS degree in Automation and Control Engineering from Sichuan University, P. R. China.   
     </div>  
 </div>  
 <br>
@@ -73,12 +73,12 @@ I am fortunate to work with several bright students:
     <div class="col-sm-4">
         <b>Ruiyao Liu</b> <br>
         Ph.D. student (2023 Fall --) <br><br>
-        TBD <br><br>
+        Data privacy <br><br>
         Email: TBD <br>
         
     </div>
     <div class="col-sm-5">
-        TBD  
+        Ruiyao received his BS degree in Automation and Control Engineering from Sichuan University, P. R. China.  
     </div>  
 </div>  
 <br>
