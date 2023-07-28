@@ -11,7 +11,7 @@ In an increasingly interconnected world, the need for efficient and privacy-cent
 The primary purpose of this project is to develop an efficient and privacy-centric emergency response system that ensures timely assistance for those in need while safeguarding the privacy of both patients and responders. By leveraging advanced technologies and innovative algorithms, the system aims to create a seamless and secure platform for emergency help requests and response coordination.
 
 
-### Major Goals of Framework
+#### Major Goals of Framework
 * Privacy Protection
   * The project's foremost goal is to implement robust privacy protection measures for both patients and responders. By utilizing obfuscation techniques and the LIH algorithm, the system ensures that responders' locations remain confidential, mitigating potential risks associated with sharing sensitive information.
   * Indoor Navigation
