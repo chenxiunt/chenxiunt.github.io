@@ -9,27 +9,14 @@ importance: 2
 ### Overview
 In an increasingly interconnected world, the need for efficient and privacy-centric emergency response systems has become paramount. **"SpatialAgent" aims to address this challenge by proposing a novel spatial crowdsoucing platform that incorporates cutting-edge privacy protection technologies to safeguard user privacy while providing timely assistance to those in need.** By leveraging advanced technologies and innovative algorithms, the system aims to create a seamless and secure platform for emergency help requests and response coordination.
 
-
-The architecture is divided into implementations - each serving distinct roles to ensure the privacy of users and offer seamless navigation for responders.
-
-
-### Major Goals of Framework
-* Privacy Protection
-  * The project's foremost goal is to implement robust privacy protection measures for both patients and responders. By utilizing obfuscation techniques and the LIH algorithm, the system ensures that responders' locations remain confidential, mitigating potential risks associated with sharing sensitive information.
-  * Indoor Navigation
+**Major Goals of Framework**
+* The project's foremost goal is to implement robust privacy protection measures for both patients and responders. By utilizing obfuscation techniques and the LIH algorithm, the system ensures that responders' locations remain confidential, mitigating potential risks associated with sharing sensitive information.
+* Indoor Navigation
 A key objective of the project is to facilitate seamless indoor navigation for responders. By preparing a directed graph of building layouts, the system can generate optimal paths, enabling responders to navigate complex indoor environments and locate patients effectively.
 
-  <div class="row">
-    <div class="col-sm">
-     <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/TrafficAdapter_HMM.png' | relative_url }}" alt="" title="Figure 1. HMM model"/>
-    </div>
-    <div class="col-sm">
-     <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/TrafficAdapter_HMM.png' | relative_url }}" alt="" title="Figure 1. HMM model"/>
-    </div>
-    <div class="col-sm">
-     <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/TrafficAdapter_HMM.png' | relative_url }}" alt="" title="Figure 1. HMM model"/>
-    </div>
-  </div>
+
+### Architecture
+The architecture is divided into implementations - each serving distinct roles to ensure the privacy of users and offer seamless navigation for responders.
 
 ### Frontend Implementation: User Interface and User Experience
 The Frontend Implementation of the proposed architecture centers around developing intuitive User Interfaces (UI) to facilitate user interactions. Two key interfaces have been designed: the Patient Interface and the Responders Interface. The Patient Interface empowers users to register help requests, utilizing operational and mapping APIs from the backend to provide accurate and real-time location information. Additionally, the app integrates obfuscation functionality to further protect user data, leveraging a suite of APIs for enhanced privacy.
@@ -49,9 +36,20 @@ To safeguard responder privacy, the architecture employs Obfuscation APIs, which
 The LIH (Location-based Information Hiding) model's implementation yields a probabilistic distribution table, derived from shared destination locations among responders. This table depicts the likelihood of selecting a specific site as an obscured or cloaked location within the designated region. The resultant obfuscated location serves as a strategically concealed substitute, preserving user privacy, while concurrently enabling the seamless execution of location-dependent tasks and services.
 
 ## User Manual
+ <div class="row">
+    <div class="col-sm">
+     <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/TrafficAdapter_HMM.png' | relative_url }}" alt="" title="Figure 1. HMM model"/>
+    </div>
+    <div class="col-sm">
+     <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/TrafficAdapter_HMM.png' | relative_url }}" alt="" title="Figure 1. HMM model"/>
+    </div>
+    <div class="col-sm">
+     <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/TrafficAdapter_HMM.png' | relative_url }}" alt="" title="Figure 1. HMM model"/>
+    </div>
+  </div>
 
 
 ## Conclusion
-In conclusion, this project presents a comprehensive and privacy-conscious emergency response system, leveraging innovative technologies such as React Native, Python Flask, MATLAB, Google Maps API, and MongoDB. The proposed architecture ensures user privacy while providing effective assistance to those in need. In the following sections, we will delve deeper into each component and highlight their individual contributions to the project's success.	
+This project presents a comprehensive and privacy-conscious emergency response system, leveraging innovative technologies such as React Native, Python Flask, MATLAB, Google Maps API, and MongoDB. The proposed architecture ensures user privacy while providing effective assistance to those in need. In the following sections, we will delve deeper into each component and highlight their individual contributions to the project's success.	
 
 
