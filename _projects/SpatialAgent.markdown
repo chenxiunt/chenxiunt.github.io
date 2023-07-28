@@ -25,7 +25,7 @@ A key objective of the project is to facilitate seamless indoor navigation for r
      <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/TrafficAdapter_HMM.png' | relative_url }}" alt="" title="Figure 1. HMM model"/>
     </div>
     <div class="col-sm">
-     c<img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/TrafficAdapter_HMM.png' | relative_url }}" alt="" title="Figure 1. HMM model"/>
+     <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/TrafficAdapter_HMM.png' | relative_url }}" alt="" title="Figure 1. HMM model"/>
     </div>
   </div>
 
