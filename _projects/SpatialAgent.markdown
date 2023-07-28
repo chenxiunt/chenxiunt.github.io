@@ -34,6 +34,9 @@ With an emphasis on indoor navigation, the project prepares a directed graph bas
 To safeguard responder privacy, the architecture employs Obfuscation APIs, which integrate the LIH algorithm. This algorithm obfuscates responder locations, providing an additional layer of security against potential attackers. The obfuscated locations are dynamically computed based on the responder's serving location, further enhancing privacy and safety.
 The LIH (Location-based Information Hiding) model's implementation yields a probabilistic distribution table, derived from shared destination locations among responders. This table depicts the likelihood of selecting a specific site as an obscured or cloaked location within the designated region. The resultant obfuscated location serves as a strategically concealed substitute, preserving user privacy, while concurrently enabling the seamless execution of location-dependent tasks and services.
 
+## User Manual
+
+
 ## Conclusion
 In conclusion, this project presents a comprehensive and privacy-conscious emergency response system, leveraging innovative technologies such as React Native, Python Flask, MATLAB, Google Maps API, and MongoDB. The proposed architecture ensures user privacy while providing effective assistance to those in need. In the following sections, we will delve deeper into each component and highlight their individual contributions to the project's success.	
 
