@@ -2,7 +2,7 @@
 layout: page
 title: Computer Networks
 description: Introduce basic concepts, models, and protocols in computer networks, including the OSI model and network security. 
-img: /assets/img/teaching-CSCE5580.png
+img: /assets/img/logo/teaching-CSCE5580.png
 importance: 1
 ---
 
