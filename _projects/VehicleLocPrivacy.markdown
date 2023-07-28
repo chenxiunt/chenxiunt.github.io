@@ -10,7 +10,7 @@ importance: 1
 
 <div class="row justify-content-md-center">
     <div class="col-sm-9">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/TrafficAdapter_HMM.png' | relative_url }}" alt="" title="Figure 1. HMM model"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/TrafficAdapter_HMM.png' | relative_url }}" alt="" title="Figure 1. HMM model"/>
     </div>
 </div>
 <div class="caption">
@@ -19,7 +19,7 @@ importance: 1
 
 <div class="row justify-content-md-center">
     <div class="col-sm-9">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/TrafficAdapter_inference.png' | relative_url }}" alt="" title="Figure 1. Example: Accuracy of location tracking using the vehicle traffic flow information."/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/TrafficAdapter_inference.png' | relative_url }}" alt="" title="Figure 1. Example: Accuracy of location tracking using the vehicle traffic flow information."/>
     </div>
 </div>
 <div class="caption">
@@ -37,7 +37,7 @@ The MATLAB code of vehicle location tracking has been released [here](https://gi
 
 <div class="row justify-content-md-center">
     <div class="col-sm-9">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/TrafficAdapter_Framework.png' | relative_url }}" alt="" title="Figure 3. Framework of location obfuscation"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/TrafficAdapter_Framework.png' | relative_url }}" alt="" title="Figure 3. Framework of location obfuscation"/>
     </div>
 </div>
 <div class="caption">
