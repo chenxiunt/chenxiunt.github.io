@@ -17,6 +17,12 @@ The primary purpose of this project is to develop an efficient and privacy-centr
   * Indoor Navigation
 A key objective of the project is to facilitate seamless indoor navigation for responders. By preparing a directed graph of building layouts, the system can generate optimal paths, enabling responders to navigate complex indoor environments and locate patients effectively.
 
+  <div class="row">
+    <div class="col-sm">col-sm</div>
+    <div class="col-sm">col-sm</div>
+    <div class="col-sm">col-sm</div>
+  </div>
+
 ### Frontend Implementation: User Interface and User Experience
 The Frontend Implementation of the proposed architecture centers around developing intuitive User Interfaces (UI) to facilitate user interactions. Two key interfaces have been designed: the Patient Interface and the Responders Interface. The Patient Interface empowers users to register help requests, utilizing operational and mapping APIs from the backend to provide accurate and real-time location information. Additionally, the app integrates obfuscation functionality to further protect user data, leveraging a suite of APIs for enhanced privacy.
 
