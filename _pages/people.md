@@ -27,7 +27,7 @@ I am fortunate to work with several bright students:
         <a href="https://scholar.google.com/citations?user=Luc18E4AAAAJ&hl=en">Google scholar</a>
     </div>
     <div class="col-sm-5">
-        Sourabh received his MS degree in Artificial Intelligence and Robotics and have been an active researcher in the subject since 2018. Currently, he is working on location privacy protection in time-sensitive spatial crowdsourcing and cooperative perception of autonomous vehicles. He is leading the project "<a href="[https://scholar.google.com/citations?user=Luc18E4AAAAJ&hl=en](https://chenxiunt.github.io/projects/SpatialAgent/)">SpatialAgent</a>" in MCLab. 
+        Sourabh received his MS degree in Artificial Intelligence and Robotics and have been an active researcher in the subject since 2018. Currently, he is working on location privacy protection in time-sensitive spatial crowdsourcing and cooperative perception of autonomous vehicles. He is leading the project <a href="https://chenxiunt.github.io/projects/SpatialAgent/">SpatialAgent</a> in MCLab. 
     </div>  
 </div>  
 <br>
