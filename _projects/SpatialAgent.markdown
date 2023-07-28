@@ -7,12 +7,12 @@ importance: 2
 ---
 
 ### Overview
-In an increasingly interconnected world, the need for efficient and privacy-centric emergency response systems has become paramount. **"SpatialAgent" aims to address this challenge by proposing a novel spatial crowdsoucing platform that incorporates cutting-edge privacy protection technologies to safeguard user privacy while providing timely assistance to those in need.** By leveraging advanced technologies and innovative algorithms, the system aims to create a seamless and secure platform for emergency help requests and response coordination.
+In an increasingly interconnected world, the need for efficient and privacy-centric emergency response systems has become paramount. **"SpatialAgent" aims to address this challenge by proposing a novel spatial crowdsourcing platform that incorporates cutting-edge privacy protection technologies to safeguard user privacy while providing timely assistance to those in need.** By leveraging privacy-enhancing technologies like **Differential Privacy**, the system aims to create a seamless and secure platform for emergency help requests and response coordination.
 
 **Major Goals of Framework**
-* The project's foremost goal is to implement robust privacy protection measures for both patients and responders. By utilizing obfuscation techniques and the LIH algorithm, the system ensures that responders' locations remain confidential, mitigating potential risks associated with sharing sensitive information.
+* The project's foremost goal is to implement robust privacy protection measures for both patients and responders. By utilizing data perturbation techniques and the LIH algorithm, the system ensures that responders' locations remain confidential, mitigating potential risks associated with sharing sensitive information.
 * Indoor Navigation
-A key objective of the project is to facilitate seamless indoor navigation for responders. By preparing a directed graph of building layouts, the system can generate optimal paths, enabling responders to navigate complex indoor environments and locate patients effectively.
+The second objective of the project is to facilitate seamless indoor navigation for responders. By preparing a directed graph of building layouts, the system can generate optimal paths, enabling responders to navigate complex indoor environments and locate patients effectively.
 
 
 ### Architecture
