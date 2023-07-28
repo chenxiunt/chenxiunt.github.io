@@ -2,7 +2,7 @@
 layout: page
 title: Foundations of Computing 1
 description: Introduces both data structures and formalisms used in computer science, such as the asymptotic behavior of algorithms. 
-img: /assets/img/teaching-CSCE2100.png
+img: /assets/img/logo/teaching-CSCE2100.png
 importance: 1
 ---
 
