@@ -7,11 +7,13 @@ importance: 2
 ---
 
 ### Overview
-In an increasingly interconnected world, the need for efficient and privacy-centric emergency response systems has become paramount. **"SpatialAgent" aims to address this challenge by proposing a novel architecture that incorporates cutting-edge privacy protection technologies to safeguard user privacy while providing timely assistance to those in need.** The architecture is divided into implementations - each serving distinct roles to ensure the privacy of users and offer seamless navigation for responders.
-The primary purpose of this project is to develop an efficient and privacy-centric emergency response system that ensures timely assistance for those in need while safeguarding the privacy of both patients and responders. By leveraging advanced technologies and innovative algorithms, the system aims to create a seamless and secure platform for emergency help requests and response coordination.
+In an increasingly interconnected world, the need for efficient and privacy-centric emergency response systems has become paramount. **"SpatialAgent" aims to address this challenge by proposing a novel spatial crowdsoucing platform that incorporates cutting-edge privacy protection technologies to safeguard user privacy while providing timely assistance to those in need.** By leveraging advanced technologies and innovative algorithms, the system aims to create a seamless and secure platform for emergency help requests and response coordination.
 
 
-#### Major Goals of Framework
+The architecture is divided into implementations - each serving distinct roles to ensure the privacy of users and offer seamless navigation for responders.
+
+
+### Major Goals of Framework
 * Privacy Protection
   * The project's foremost goal is to implement robust privacy protection measures for both patients and responders. By utilizing obfuscation techniques and the LIH algorithm, the system ensures that responders' locations remain confidential, mitigating potential risks associated with sharing sensitive information.
   * Indoor Navigation
