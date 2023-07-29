@@ -40,7 +40,7 @@ The architecture is divided into implementations - each serving distinct roles t
 ## User Manual
 <div class="row justify-content-md-center">
     <div class="col-sm-9">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/Homepage.jpg' | relative_url }}" alt="" title="Figure 1. HMM model"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/Homepage.png' | relative_url }}" alt="" title="Figure 1. HMM model"/>
     </div>
 </div>
 
