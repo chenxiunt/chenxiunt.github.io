@@ -55,14 +55,14 @@ The purpose of this manual is to guide users through the functionality and opera
 **2. Patient Module** 
 <div class="row justify-content-md-center">
     <div class="col-sm-4">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/1Homepage.png' | relative_url }}" alt="" title="Homepage"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/2PatientModule.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
 </div>
 
 * **Requesting Help** In the Patient module, select "Request Help" to initiate a help request. Add floor details to accurately pinpoint your location. After providing the floor details, tap on "Submit" to initiate the help request, which will be saved in the database.
 <div class="row justify-content-md-center">
     <div class="col-sm-4">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/1Homepage.png' | relative_url }}" alt="" title="Homepage"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/3RequestHelp.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
 </div>
 
@@ -74,7 +74,7 @@ The purpose of this manual is to guide users through the functionality and opera
 **3. Responder Module** 
 <div class="row justify-content-md-center">
     <div class="col-sm-4">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/1Homepage.png' | relative_url }}" alt="" title="Homepage"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/4ResponderInitiate.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
 </div>
 
@@ -85,7 +85,37 @@ The purpose of this manual is to guide users through the functionality and opera
     * By confirming service allocation, you will be added to the probable responders for the selected request.
     * Furthermore, on the same page, a new map will be displayed, presenting a heat map that showcases the probability of obfuscation for each location throughout the entire building.
 
+* **Checking Responder Status**.
+    * Check your current responder status by selecting "Responder Status." The status indicators include:
+  <div class="row justify-content-md-center">
+    <div class="col-sm-4">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/5ResponderCheckingStatus1.png' | relative_url }}" alt="" title="Homepage"/>
+    </div>
+    <div class="col-sm-4">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/5ResponderCheckingStatus2.png' | relative_url }}" alt="" title="Homepage"/>
+    </div>
+</div>
 
+    * Waiting for Location
+    * Location Allocated
+    * Path Assigned
+* **Viewing Responder Path**. View the path to follow when serving the location. Path representation includes:
+<div class="row justify-content-md-center">
+    <div class="col-sm-4">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/7ResponderPath.png' | relative_url }}" alt="" title="Homepage"/>
+    </div>
+</div>
+
+    * Dotted Line: Staircase
+    * Black Line: Current Floor Path
+    * Brown Line: Path on Another Floor
+* **Heat Map Visualization**. The app provides a heat map visualization to represent obfuscation probabilities for each location in the building.
+<div class="row justify-content-md-center">
+    <div class="col-sm-4">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/8Heatmap.png' | relative_url }}" alt="" title="Homepage"/>
+    </div>
+</div>
+    * Interpret the probabilities on the heat map to understand the likelihood of a location being chosen for obfuscation.
 
 ## Conclusion
 This project presents a comprehensive and privacy-conscious emergency response system, leveraging innovative technologies such as React Native, Python Flask, MATLAB, Google Maps API, and MongoDB. The proposed architecture ensures user privacy while providing effective assistance to those in need. In the following sections, we will delve deeper into each component and highlight their individual contributions to the project's success.	
