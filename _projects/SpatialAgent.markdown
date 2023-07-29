@@ -38,11 +38,19 @@ The architecture is divided into implementations - each serving distinct roles t
 * The LIH (Location-based Information Hiding) model's implementation yields a probabilistic distribution table, derived from shared destination locations among responders. This table depicts the likelihood of selecting a specific site as an obscured or cloaked location within the designated region. The resultant obfuscated location serves as a strategically concealed substitute, preserving user privacy, while concurrently enabling the seamless execution of location-dependent tasks and services.
 
 ## User Manual
+The purpose of this manual is to guide users through the functionality and operation of the SpatialAgent - Privacy-Centric Emergency Response System app. It provides comprehensive instructions and explanations to ensure a seamless experience while using the application.
+
+**Overview.** The SpatialAgent or Privacy-Centric Emergency Response System app offers two user modules - Patient and Responder. The Patient module allows users to request help during emergencies, while the Responder module enables volunteers to respond to those requests. The app employs advanced technologies to safeguard user privacy and provides responders with guided paths to reach patients swiftly.
+
+**Homepage and Module Section**
 <div class="row justify-content-md-center">
     <div class="col-sm-4">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/1Homepage.png' | relative_url }}" alt="" title="Figure 1. HMM model"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/1Homepage.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
 </div>
+
+* **Accessing the Homepage.** Upon launching the app, you will be directed to the homepage. The homepage offers access to the Patient and Responder modules.
+* **Selecting the User Module** Choose the appropriate user module based on your role - Patient or Responder.
 
 
 ## Conclusion
