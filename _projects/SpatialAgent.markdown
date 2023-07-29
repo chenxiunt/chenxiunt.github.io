@@ -51,6 +51,7 @@ The purpose of this manual is to guide users through the functionality and opera
     </div>
     <div class="col-sm-3">
         1. Accessing the Homepage: Upon launching the app, you will be directed to the homepage. The homepage offers access to the Patient and Responder modules.
+        
         2. Selecting the User Module** Choose the appropriate user module based on your role - Patient or Responder.
     </div>
 </div>
