@@ -95,10 +95,7 @@ The purpose of this manual is to guide users through the functionality and opera
     * Furthermore, on the same page, a new map will be displayed, presenting a heat map that showcases the probability of obfuscation for each location throughout the entire building.
 
 * **Checking Responder Status**.
-    * Check your current responder status by selecting "Responder Status." The status indicators include:
-
-  
-  <div class="row justify-content-md-center">
+<div class="row justify-content-md-center">
     <div class="col-sm-4">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/5ResponderCheckingStatus1.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
@@ -106,11 +103,11 @@ The purpose of this manual is to guide users through the functionality and opera
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/5ResponderCheckingStatus2.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
 </div>
-
-
+    * Check your current responder status by selecting "Responder Status." The status indicators include:
     * Waiting for Location
     * Location Allocated
     * Path Assigned
+    
 * **Viewing Responder Path**. View the path to follow when serving the location. Path representation includes:
 
 
