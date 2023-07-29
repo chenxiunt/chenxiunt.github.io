@@ -94,8 +94,6 @@ The purpose of this manual is to guide users through the functionality and opera
 </div>
 ----------
 
-* **Checking Responder Status**.
-
 <div class="row justify-content-md-center">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/5ResponderCheckingStatus1.png' | relative_url }}" alt="" title="Homepage"/>
@@ -105,8 +103,6 @@ The purpose of this manual is to guide users through the functionality and opera
     </div>
 </div>
 ----------
-    
-* **Viewing Responder Path**. 
 
 <div class="row justify-content-md-center">
     <div class="col-sm-3">
