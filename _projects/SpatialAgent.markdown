@@ -67,78 +67,72 @@ The purpose of this manual is to guide users through the functionality and opera
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/2PatientModule.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
+    <div class="col-sm-6">
+        Requesting Help: In the Patient module, select "Request Help" to initiate a help request. Add floor details to accurately pinpoint your location. After providing the floor details, tap on "Submit" to initiate the help request, which will be saved in the database.
+    </div>
 </div>
 ----------
-
-* **Requesting Help** In the Patient module, select "Request Help" to initiate a help request. Add floor details to accurately pinpoint your location. After providing the floor details, tap on "Submit" to initiate the help request, which will be saved in the database.
-
 
 <div class="row justify-content-md-center">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/3RequestHelp.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
+    <div class="col-sm-6">
+        Checking Request Status: Check the current status of your request by selecting "Request Status." The status indicators include: (1) Waiting for Responder (2) Responder Assigned (3) Responder on its Way
+    </div>
 </div>
 ----------
 
-* **Checking Request Status** Check the current status of your request by selecting "Request Status." The status indicators include:
-    * Waiting for Responder
-    * Responder Assigned
-    * Responder on its Way
+
 
 **3. Responder Module** 
-
 
 <div class="row justify-content-md-center">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/4ResponderInitiate.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
+    <div class="col-sm-6">
+    Initiate Help. (1) In the Responder module, select "Initiate Help" and enter your mobile number. (2) Choose the floor you are currently on to proceed. (3) The map section will highlight existing help requests. Select a request to serve from the available options. (4) By confirming service allocation, you will be added to the probable responders for the selected request. (5) Furthermore, on the same page, a new map will be displayed, presenting a heat map that showcases the probability of obfuscation for each location throughout the entire building.
+    </div>
 </div>
 ----------
 
-* **Initiate Help**.
-    * In the Responder module, select "Initiate Help" and enter your mobile number.
-    * Choose the floor you are currently on to proceed.
-    * The map section will highlight existing help requests. Select a request to serve from the available options.
-    * By confirming service allocation, you will be added to the probable responders for the selected request.
-    * Furthermore, on the same page, a new map will be displayed, presenting a heat map that showcases the probability of obfuscation for each location throughout the entire building.
-
 * **Checking Responder Status**.
-    * Check your current responder status by selecting "Responder Status." The status indicators include:
-    * Waiting for Location
-    * Location Allocated
-    * Path Assigned
 
- 
 <div class="row justify-content-md-center">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/5ResponderCheckingStatus1.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
     <div class="col-sm-3">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/5ResponderCheckingStatus2.png' | relative_url }}" alt="" title="Homepage"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/6ResponderCheckingStatus2.png' | relative_url }}" alt="" title="Homepage"/>
+    </div>
+    <div class="col-sm-3">
+        Check your current responder status by selecting "Responder Status." The status indicators include: (1) Waiting for Location, (2) Location Allocated, and (3) Path Assigned. 
     </div>
 </div>
 ----------
     
 * **Viewing Responder Path**. View the path to follow when serving the location. Path representation includes:
-    * Dotted Line: Staircase
-    * Black Line: Current Floor Path
-    * Brown Line: Path on Another Floor
-
 
 <div class="row justify-content-md-center">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/7ResponderPath.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
+    <div class="col-sm-6">
+    (1) Dotted Line: Staircase 
+    (2) Black Line: Current Floor Path 
+    (3) Brown Line: Path on Another Floor 
+    </div>
 </div>
 ----------
 
-* **Heat Map Visualization**. The app provides a heat map visualization to represent obfuscation probabilities for each location in the building.
-    * Interpret the probabilities on the heat map to understand the likelihood of a location being chosen for obfuscation.
-
-
+* **Heat Map Visualization**. 
 <div class="row justify-content-md-center">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/8Heatmap.png' | relative_url }}" alt="" title="Homepage"/>
+    </div>
+    <div class="col-sm-6">
+        The app provides a heat map visualization to represent obfuscation probabilities for each location in the building. Interpret the probabilities on the heat map to understand the likelihood of a location being chosen for obfuscation.
     </div>
 </div>
 ----------
