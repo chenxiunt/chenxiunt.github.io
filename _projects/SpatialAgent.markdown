@@ -103,7 +103,7 @@ The purpose of this manual is to guide users through the functionality and opera
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/5ResponderCheckingStatus1.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
-    <div class="col-sm-3">
+    <div class="col-sm-3.2">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/6ResponderCheckingStatus2.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
     <div class="col-sm-3">
@@ -112,13 +112,14 @@ The purpose of this manual is to guide users through the functionality and opera
 </div>
 ----------
     
-* **Viewing Responder Path**. View the path to follow when serving the location. Path representation includes:
+* **Viewing Responder Path**. 
 
 <div class="row justify-content-md-center">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/7ResponderPath.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
     <div class="col-sm-6">
+    View the path to follow when serving the location. Path representation includes:
     (1) Dotted Line: Staircase 
     (2) Black Line: Current Floor Path 
     (3) Brown Line: Path on Another Floor 
