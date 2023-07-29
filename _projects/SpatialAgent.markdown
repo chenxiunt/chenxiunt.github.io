@@ -44,7 +44,7 @@ The purpose of this manual is to guide users through the functionality and opera
 
 **1. Homepage and Module Section**
 
-<div class="row justify-content-md-center">
+<div class="row justify-content-md">
     <div class="col-sm-4">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/1Homepage.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
