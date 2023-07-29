@@ -43,6 +43,7 @@ The purpose of this manual is to guide users through the functionality and opera
 **Overview.** The SpatialAgent or Privacy-Centric Emergency Response System app offers two user modules - Patient and Responder. The Patient module allows users to request help during emergencies, while the Responder module enables volunteers to respond to those requests. The app employs advanced technologies to safeguard user privacy and provides responders with guided paths to reach patients swiftly.
 
 **1. Homepage and Module Section**
+
 <div class="row justify-content-md-center">
     <div class="col-sm-4">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/1Homepage.png' | relative_url }}" alt="" title="Homepage"/>
@@ -53,6 +54,7 @@ The purpose of this manual is to guide users through the functionality and opera
 * **Selecting the User Module** Choose the appropriate user module based on your role - Patient or Responder.
 
 **2. Patient Module** 
+
 <div class="row justify-content-md-center">
     <div class="col-sm-4">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/2PatientModule.png' | relative_url }}" alt="" title="Homepage"/>
@@ -60,6 +62,7 @@ The purpose of this manual is to guide users through the functionality and opera
 </div>
 
 * **Requesting Help** In the Patient module, select "Request Help" to initiate a help request. Add floor details to accurately pinpoint your location. After providing the floor details, tap on "Submit" to initiate the help request, which will be saved in the database.
+
 <div class="row justify-content-md-center">
     <div class="col-sm-4">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/3RequestHelp.png' | relative_url }}" alt="" title="Homepage"/>
@@ -72,6 +75,7 @@ The purpose of this manual is to guide users through the functionality and opera
     * Responder on its Way
 
 **3. Responder Module** 
+
 <div class="row justify-content-md-center">
     <div class="col-sm-4">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/4ResponderInitiate.png' | relative_url }}" alt="" title="Homepage"/>
@@ -87,6 +91,7 @@ The purpose of this manual is to guide users through the functionality and opera
 
 * **Checking Responder Status**.
     * Check your current responder status by selecting "Responder Status." The status indicators include:
+  
   <div class="row justify-content-md-center">
     <div class="col-sm-4">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/5ResponderCheckingStatus1.png' | relative_url }}" alt="" title="Homepage"/>
@@ -100,6 +105,7 @@ The purpose of this manual is to guide users through the functionality and opera
     * Location Allocated
     * Path Assigned
 * **Viewing Responder Path**. View the path to follow when serving the location. Path representation includes:
+
 <div class="row justify-content-md-center">
     <div class="col-sm-4">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/7ResponderPath.png' | relative_url }}" alt="" title="Homepage"/>
@@ -110,6 +116,7 @@ The purpose of this manual is to guide users through the functionality and opera
     * Black Line: Current Floor Path
     * Brown Line: Path on Another Floor
 * **Heat Map Visualization**. The app provides a heat map visualization to represent obfuscation probabilities for each location in the building.
+
 <div class="row justify-content-md-center">
     <div class="col-sm-4">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/8Heatmap.png' | relative_url }}" alt="" title="Homepage"/>
