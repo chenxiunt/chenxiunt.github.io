@@ -45,11 +45,12 @@ The purpose of this manual is to guide users through the functionality and opera
 **1. Homepage and Module Section**
 
 
-<div class="row justify-content-md">
+<div class="row justify-content-md-center">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/1Homepage.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
 </div>
+----------
 
 * **Accessing the Homepage.** Upon launching the app, you will be directed to the homepage. The homepage offers access to the Patient and Responder modules.
 * **Selecting the User Module** Choose the appropriate user module based on your role - Patient or Responder.
@@ -57,20 +58,22 @@ The purpose of this manual is to guide users through the functionality and opera
 **2. Patient Module** 
 
 
-<div class="row justify-content-md">
+<div class="row justify-content-md-center">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/2PatientModule.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
 </div>
+----------
 
 * **Requesting Help** In the Patient module, select "Request Help" to initiate a help request. Add floor details to accurately pinpoint your location. After providing the floor details, tap on "Submit" to initiate the help request, which will be saved in the database.
 
 
-<div class="row justify-content-md">
+<div class="row justify-content-md-center">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/3RequestHelp.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
 </div>
+----------
 
 * **Checking Request Status** Check the current status of your request by selecting "Request Status." The status indicators include:
     * Waiting for Responder
@@ -80,12 +83,12 @@ The purpose of this manual is to guide users through the functionality and opera
 **3. Responder Module** 
 
 
-<div class="row justify-content-md">
+<div class="row justify-content-md-center">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/4ResponderInitiate.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
 </div>
-
+----------
 
 * **Initiate Help**.
     * In the Responder module, select "Initiate Help" and enter your mobile number.
@@ -101,7 +104,7 @@ The purpose of this manual is to guide users through the functionality and opera
     * Path Assigned
 
  
-<div class="row justify-content-md">
+<div class="row justify-content-md-center">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/5ResponderCheckingStatus1.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
@@ -109,7 +112,7 @@ The purpose of this manual is to guide users through the functionality and opera
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/5ResponderCheckingStatus2.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
 </div>
-
+----------
     
 * **Viewing Responder Path**. View the path to follow when serving the location. Path representation includes:
     * Dotted Line: Staircase
@@ -117,22 +120,23 @@ The purpose of this manual is to guide users through the functionality and opera
     * Brown Line: Path on Another Floor
 
 
-<div class="row justify-content-md">
+<div class="row justify-content-md-center">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/7ResponderPath.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
 </div>
- 
+----------
 
 * **Heat Map Visualization**. The app provides a heat map visualization to represent obfuscation probabilities for each location in the building.
     * Interpret the probabilities on the heat map to understand the likelihood of a location being chosen for obfuscation.
 
 
-<div class="row justify-content-md">
+<div class="row justify-content-md-center">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/8Heatmap.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
 </div>
+----------
 
 ## Conclusion
 This project presents a comprehensive and privacy-conscious emergency response system, leveraging innovative technologies such as React Native, Python Flask, MATLAB, Google Maps API, and MongoDB. The proposed architecture ensures user privacy while providing effective assistance to those in need. In the following sections, we will delve deeper into each component and highlight their individual contributions to the project's success.	
