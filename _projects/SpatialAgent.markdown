@@ -46,7 +46,7 @@ The purpose of this manual is to guide users through the functionality and opera
 
 
 <div class="row justify-content-md">
-    <div class="col-sm-4">
+    <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/1Homepage.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
 </div>
@@ -58,7 +58,7 @@ The purpose of this manual is to guide users through the functionality and opera
 
 
 <div class="row justify-content-md-center">
-    <div class="col-sm-4">
+    <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/2PatientModule.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
 </div>
@@ -67,7 +67,7 @@ The purpose of this manual is to guide users through the functionality and opera
 
 
 <div class="row justify-content-md-center">
-    <div class="col-sm-4">
+    <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/3RequestHelp.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
 </div>
@@ -81,7 +81,7 @@ The purpose of this manual is to guide users through the functionality and opera
 
 
 <div class="row justify-content-md-center">
-    <div class="col-sm-4">
+    <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/4ResponderInitiate.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
 </div>
@@ -102,10 +102,10 @@ The purpose of this manual is to guide users through the functionality and opera
 
  
 <div class="row justify-content-md-center">
-    <div class="col-sm-4">
+    <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/5ResponderCheckingStatus1.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
-    <div class="col-sm-4">
+    <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/5ResponderCheckingStatus2.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
 </div>
@@ -118,7 +118,7 @@ The purpose of this manual is to guide users through the functionality and opera
 
 
 <div class="row justify-content-md-center">
-    <div class="col-sm-4">
+    <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/7ResponderPath.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
 </div>
@@ -129,7 +129,7 @@ The purpose of this manual is to guide users through the functionality and opera
 
 
 <div class="row justify-content-md-center">
-    <div class="col-sm-4">
+    <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/8Heatmap.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
 </div>
