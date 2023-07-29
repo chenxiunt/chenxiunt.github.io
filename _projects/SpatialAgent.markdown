@@ -52,6 +52,40 @@ The purpose of this manual is to guide users through the functionality and opera
 * **Accessing the Homepage.** Upon launching the app, you will be directed to the homepage. The homepage offers access to the Patient and Responder modules.
 * **Selecting the User Module** Choose the appropriate user module based on your role - Patient or Responder.
 
+**2. Patient Module** 
+<div class="row justify-content-md-center">
+    <div class="col-sm-4">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/1Homepage.png' | relative_url }}" alt="" title="Homepage"/>
+    </div>
+</div>
+
+* **Requesting Help** In the Patient module, select "Request Help" to initiate a help request. Add floor details to accurately pinpoint your location. After providing the floor details, tap on "Submit" to initiate the help request, which will be saved in the database.
+<div class="row justify-content-md-center">
+    <div class="col-sm-4">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/1Homepage.png' | relative_url }}" alt="" title="Homepage"/>
+    </div>
+</div>
+
+* **Checking Request Status** Check the current status of your request by selecting "Request Status." The status indicators include:
+    * Waiting for Responder
+    * Responder Assigned
+    * Responder on its Way
+
+**3. Responder Module** 
+<div class="row justify-content-md-center">
+    <div class="col-sm-4">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/1Homepage.png' | relative_url }}" alt="" title="Homepage"/>
+    </div>
+</div>
+
+* **Initiate Help**.
+    * In the Responder module, select "Initiate Help" and enter your mobile number.
+    * Choose the floor you are currently on to proceed.
+    * The map section will highlight existing help requests. Select a request to serve from the available options.
+    * By confirming service allocation, you will be added to the probable responders for the selected request.
+    * Furthermore, on the same page, a new map will be displayed, presenting a heat map that showcases the probability of obfuscation for each location throughout the entire building.
+
+
 
 ## Conclusion
 This project presents a comprehensive and privacy-conscious emergency response system, leveraging innovative technologies such as React Native, Python Flask, MATLAB, Google Maps API, and MongoDB. The proposed architecture ensures user privacy while providing effective assistance to those in need. In the following sections, we will delve deeper into each component and highlight their individual contributions to the project's success.	
