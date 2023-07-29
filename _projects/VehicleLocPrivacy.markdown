@@ -14,7 +14,7 @@ importance: 1
     </div>
 </div>
 <div class="caption">
-    Figure 1. HMM model: the vehicle’s exact location is considered as a hidden state, while its sensing information/perturbated location is considered as an observable state; the HMM transition matrix, which can be learnt using the traffic flow information, describes the probabilities of the vehicle traveling between the locations over the map. 
+    Figure 1. HMM model: the vehicle’s exact location is considered as a hidden state, while its sensor information/perturbated location is considered as an observable state; the HMM transition matrix, which can be learned using the traffic flow information, describes the probabilities of the vehicle traveling between the locations over the map. 
 </div>
 
 <div class="row justify-content-md-center">
