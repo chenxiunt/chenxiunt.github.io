@@ -103,10 +103,7 @@ The purpose of this manual is to guide users through the functionality and opera
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/5ResponderCheckingStatus1.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
-    <div class="col-sm-3.2">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/6ResponderCheckingStatus2.png' | relative_url }}" alt="" title="Homepage"/>
-    </div>
-    <div class="col-sm-3">
+    <div class="col-sm-6">
         Check your current responder status by selecting "Responder Status." The status indicators include: (1) Waiting for Location, (2) Location Allocated, and (3) Path Assigned. 
     </div>
 </div>
