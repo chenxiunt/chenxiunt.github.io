@@ -38,17 +38,11 @@ The architecture is divided into implementations - each serving distinct roles t
 * The LIH (Location-based Information Hiding) model's implementation yields a probabilistic distribution table, derived from shared destination locations among responders. This table depicts the likelihood of selecting a specific site as an obscured or cloaked location within the designated region. The resultant obfuscated location serves as a strategically concealed substitute, preserving user privacy, while concurrently enabling the seamless execution of location-dependent tasks and services.
 
 ## User Manual
- <div class="row">
-    <div class="col-sm">
-     <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/TrafficAdapter_HMM.png' | relative_url }}" alt="" title="Figure 1. HMM model"/>
+<div class="row justify-content-md-center">
+    <div class="col-sm-9">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/Homepage.jpg' | relative_url }}" alt="" title="Figure 1. HMM model"/>
     </div>
-    <div class="col-sm">
-     <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/TrafficAdapter_HMM.png' | relative_url }}" alt="" title="Figure 1. HMM model"/>
-    </div>
-    <div class="col-sm">
-     <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/TrafficAdapter_HMM.png' | relative_url }}" alt="" title="Figure 1. HMM model"/>
-    </div>
-  </div>
+</div>
 
 
 ## Conclusion
