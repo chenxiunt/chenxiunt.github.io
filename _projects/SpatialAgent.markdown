@@ -49,11 +49,16 @@ The purpose of this manual is to guide users through the functionality and opera
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/1Homepage.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
+    <div class="col-sm-3">
+        1. Accessing the Homepage: Upon launching the app, you will be directed to the homepage. The homepage offers access to the Patient and Responder modules.
+        2. Selecting the User Module** Choose the appropriate user module based on your role - Patient or Responder.
+    </div>
 </div>
 ----------
 
 * **Accessing the Homepage.** Upon launching the app, you will be directed to the homepage. The homepage offers access to the Patient and Responder modules.
 * **Selecting the User Module** Choose the appropriate user module based on your role - Patient or Responder.
+
 
 **2. Patient Module** 
 
