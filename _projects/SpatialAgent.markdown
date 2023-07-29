@@ -44,6 +44,7 @@ The purpose of this manual is to guide users through the functionality and opera
 
 **1. Homepage and Module Section**
 
+
 <div class="row justify-content-md">
     <div class="col-sm-4">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/1Homepage.png' | relative_url }}" alt="" title="Homepage"/>
@@ -55,6 +56,7 @@ The purpose of this manual is to guide users through the functionality and opera
 
 **2. Patient Module** 
 
+
 <div class="row justify-content-md-center">
     <div class="col-sm-4">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/2PatientModule.png' | relative_url }}" alt="" title="Homepage"/>
@@ -62,6 +64,7 @@ The purpose of this manual is to guide users through the functionality and opera
 </div>
 
 * **Requesting Help** In the Patient module, select "Request Help" to initiate a help request. Add floor details to accurately pinpoint your location. After providing the floor details, tap on "Submit" to initiate the help request, which will be saved in the database.
+
 
 <div class="row justify-content-md-center">
     <div class="col-sm-4">
@@ -76,11 +79,13 @@ The purpose of this manual is to guide users through the functionality and opera
 
 **3. Responder Module** 
 
+
 <div class="row justify-content-md-center">
     <div class="col-sm-4">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/4ResponderInitiate.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
 </div>
+
 
 * **Initiate Help**.
     * In the Responder module, select "Initiate Help" and enter your mobile number.
@@ -91,6 +96,7 @@ The purpose of this manual is to guide users through the functionality and opera
 
 * **Checking Responder Status**.
     * Check your current responder status by selecting "Responder Status." The status indicators include:
+
   
   <div class="row justify-content-md-center">
     <div class="col-sm-4">
@@ -101,10 +107,12 @@ The purpose of this manual is to guide users through the functionality and opera
     </div>
 </div>
 
+
     * Waiting for Location
     * Location Allocated
     * Path Assigned
 * **Viewing Responder Path**. View the path to follow when serving the location. Path representation includes:
+
 
 <div class="row justify-content-md-center">
     <div class="col-sm-4">
@@ -112,10 +120,12 @@ The purpose of this manual is to guide users through the functionality and opera
     </div>
 </div>
 
+
     * Dotted Line: Staircase
     * Black Line: Current Floor Path
     * Brown Line: Path on Another Floor
 * **Heat Map Visualization**. The app provides a heat map visualization to represent obfuscation probabilities for each location in the building.
+
 
 <div class="row justify-content-md-center">
     <div class="col-sm-4">
