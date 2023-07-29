@@ -57,7 +57,7 @@ The purpose of this manual is to guide users through the functionality and opera
 **2. Patient Module** 
 
 
-<div class="row justify-content-md-center">
+<div class="row justify-content-md">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/2PatientModule.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
@@ -66,7 +66,7 @@ The purpose of this manual is to guide users through the functionality and opera
 * **Requesting Help** In the Patient module, select "Request Help" to initiate a help request. Add floor details to accurately pinpoint your location. After providing the floor details, tap on "Submit" to initiate the help request, which will be saved in the database.
 
 
-<div class="row justify-content-md-center">
+<div class="row justify-content-md">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/3RequestHelp.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
@@ -80,7 +80,7 @@ The purpose of this manual is to guide users through the functionality and opera
 **3. Responder Module** 
 
 
-<div class="row justify-content-md-center">
+<div class="row justify-content-md">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/4ResponderInitiate.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
@@ -101,7 +101,7 @@ The purpose of this manual is to guide users through the functionality and opera
     * Path Assigned
 
  
-<div class="row justify-content-md-center">
+<div class="row justify-content-md">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/5ResponderCheckingStatus1.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
@@ -117,7 +117,7 @@ The purpose of this manual is to guide users through the functionality and opera
     * Brown Line: Path on Another Floor
 
 
-<div class="row justify-content-md-center">
+<div class="row justify-content-md">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/7ResponderPath.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
@@ -128,7 +128,7 @@ The purpose of this manual is to guide users through the functionality and opera
     * Interpret the probabilities on the heat map to understand the likelihood of a location being chosen for obfuscation.
 
 
-<div class="row justify-content-md-center">
+<div class="row justify-content-md">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SpatialAgent/8Heatmap.png' | relative_url }}" alt="" title="Homepage"/>
     </div>
