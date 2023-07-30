@@ -4,4 +4,4 @@ date: 2022-04-04 15:59:00-0400
 inline: true
 ---
 
-Our paper was accepted by **IEEE ICDCS 2022**. 
+One paper was accepted by **IEEE ICDCS 2022**. 
