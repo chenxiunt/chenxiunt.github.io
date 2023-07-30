@@ -61,7 +61,7 @@ I am fortunate to work with several bright students:
         
     </div>
     <div class="col-sm-5">
-        Gaoyi received his BS degree in Electrical and Computer Engineering from Zhengzhou University, P. R. China.   
+        Gaoyi received his BS degree in Telecommunication Engineering from Zhengzhou University, P. R. China.   
     </div>  
 </div>  
 <br>
