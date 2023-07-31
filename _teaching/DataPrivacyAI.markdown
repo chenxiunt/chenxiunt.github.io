@@ -39,7 +39,9 @@ This course introduces how the advancement of machine learning and deep learning
 
 
 ### Seminar ###
-"Differential Privacy in AI"
+* "Differential Privacy in AI"
+* "Generative Adversarial Privacy"
+* "Geo-Indistinguishability in Spatial Crowdsourcing"
 
 ### Reading Materials ###
 * <a href="https://ieeexplore.ieee.org/abstract/document/9204396">Deep Learning for Spatio-Temporal Data Mining: A Survey</a>
