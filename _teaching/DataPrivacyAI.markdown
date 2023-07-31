@@ -43,7 +43,7 @@ This course introduces how the advancement of machine learning and deep learning
 
 ### Reading Materials ###
 * <a href="https://ieeexplore.ieee.org/abstract/document/9204396">Deep Learning for Spatio-Temporal Data Mining: A Survey</a>
-
+* <a href="https://ieeexplore.ieee.org/document/9555209">Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models</a>
 
 
 ### Projects ###
