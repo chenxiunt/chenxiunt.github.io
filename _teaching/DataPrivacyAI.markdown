@@ -32,21 +32,21 @@ This course introduces how the advancement of machine learning and deep learning
   * Autoencoders (1 class)
   * Generative Adversarial Privacy (1 class)
   * Discussion (1 class)
-* **Case Study (6 classes)**
-  * Location Privacy Protection in Spatial Crowdsourcing (2 classes)
-  * Data Privacy Protection in Demographic Analysis (2 classes)
+* **Projects (6 classes)**
+  * Classic Differential Privacy: Data Privacy Protection in Demographic Analysis (2 classes)
+  * Metric Differential Privacy: Location Privacy Protection in Spatial Crowdsourcing (2 classes)
   * Final Report (2 classes)
-
-### Outcomes ###
-TBD
-
-### Assessments ###
-TBD
 
 
 ### Seminar ###
-TBD
+"Differential Privacy in AI"
+
+### Reading Materials ###
+* <a href="https://ieeexplore.ieee.org/abstract/document/9204396">Deep Learning for Spatio-Temporal Data Mining: A Survey</a>
+
 
 
 ### Projects ###
-TBD
+* Location Privacy Protection in Spatial Crowdsourcing
+* Data Privacy Protection in Demographic Analysis
+
