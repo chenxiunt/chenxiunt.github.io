@@ -45,7 +45,7 @@ This course introduces how the advancement of machine learning and deep learning
 * <a href="https://ieeexplore.ieee.org/abstract/document/9204396">Deep Learning for Spatio-Temporal Data Mining: A Survey</a>
 * <a href="https://ieeexplore.ieee.org/document/9555209">Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models</a>
 * <a href="https://dl.acm.org/doi/abs/10.1145/2976749.2978318?casa_token=TuzrownRpQ4AAAAA:Op5q3Adm8oOns-zb3JH6tDxi4dnVoj3VierC-mHyZsP4KHvZZHU20h8VawG_OQX_4BsJR0UoVgCJvw">Deep Learning with Differential Privacy</a>
-
+* <a href="https://dl.acm.org/doi/abs/10.1145/2508859.2516735?casa_token=q3imXP39LfoAAAAA:Nl_KLLL1aaWOFzZWYzByU_PQyMiNN6jW4OgzS47371sE2ipEpuKsKfYgObnFE71pSw8kRFLyLq2aQw">Geo-indistinguishability: differential privacy for location-based systems</a>
 
 
 ### Projects ###
