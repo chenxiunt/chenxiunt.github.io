@@ -51,7 +51,7 @@ I am fortunate to work with several bright students:
 
 <div class="row justify-content-md-center">
     <div class="col-sm-3">
-        
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/people/Gaoyi.jpg' | relative_url }}" alt="" title="Gaoyi Chen"/>
     </div>
     <div class="col-sm-4">
         <b>Gaoyi Chen</b> <br>
@@ -68,7 +68,7 @@ I am fortunate to work with several bright students:
 
 <div class="row justify-content-md-center">
     <div class="col-sm-3">
-        
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/people/Ruiyao.jpg' | relative_url }}" alt="" title="Ruiyao Liu"/>
     </div>
     <div class="col-sm-4">
         <b>Ruiyao Liu</b> <br>
