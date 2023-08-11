@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-05-30 17:59:00-0400
+date: 2023-08-11 17:59:00-0400
 inline: true
 ---
 
-Our project about vehicle location privacy was funded by **NSF REU Supplement (PI)**.
+Xinpeng Xie, Gaoyi Chen, and Ruiyao Liu joined our lab. Welcome Xinpeng, Gaoyi, and Ruiyao!
