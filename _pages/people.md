@@ -34,7 +34,7 @@ I am fortunate to work with several bright students:
 
 <div class="row justify-content-md-center">
     <div class="col-sm-3">
-        
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/people/Xinpeng.jpg' | relative_url }}" alt="" title="Xinpeng Xie"/>
     </div>
     <div class="col-sm-4">
         <b>Xinpeng Xie</b> <br>
