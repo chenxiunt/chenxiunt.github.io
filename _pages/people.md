@@ -17,7 +17,7 @@ I am fortunate to work with several bright students:
 
 <div class="row justify-content-md-center">
     <div class="col-sm-3">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/people/Sourabh.jpg' | relative_url }}" alt="" title="Sourabh Yadav"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/people/Sourabh.png' | relative_url }}" alt="" title="Sourabh Yadav"/>
     </div>
     <div class="col-sm-4">
         <b>Sourabh Yadav</b> <br>
