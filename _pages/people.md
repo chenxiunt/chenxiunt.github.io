@@ -92,6 +92,10 @@ I am fortunate to work with several bright students:
 * Bharath Datta Chary Vadla (2022 Fall --)
 * Padma Priya Dirisala (2023 Spring --)
 
+-----------------------
+**Undergraduate Students**
+* Eichelle Turner (2023 Fall --) 
+* Kelsey Nichols (2023 Fall --)
 
 -----------------------
 **Alumni**
