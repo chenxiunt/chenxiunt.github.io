@@ -33,6 +33,7 @@ Study of problems and limitations associated with interconnecting computers by c
 * Understand different routing and forwarding protocols.
 
 ### Assessments ###
+
 Assignments       | Weight
 ----------------- | -------------
 Homeoworks        | 30%
@@ -43,7 +44,6 @@ Attendance        | 5%
 
 ### Seminar ###
 * Title: *Differential Privacy in Crowdsourcing Systems*
-* Abstract: TBD
 * Lecturer: Chenxi Qiu
 
 
