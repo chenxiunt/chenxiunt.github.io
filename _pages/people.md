@@ -97,6 +97,7 @@ I am fortunate to work with several bright students:
 **Undergraduate Students**
 * Eichelle Turner (2023 Fall --) 
 * Kelsey Nichols (2023 Fall --)
+* Tyler Hampton (2023 Fall --)
 
 -----------------------
 **Alumni**
