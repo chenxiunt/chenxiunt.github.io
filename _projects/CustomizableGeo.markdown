@@ -9,3 +9,6 @@ importance: 4
 **Task 1: Customizable geo-obfuscation.**
 
 Publications: **EDBT 2023**, **ICDE 2023**
+
+Technical reports: Chenxi Qiu, Sourabh Yadav, Yuede Ji, Anna Squicciarini, Ramanamurthy Dantu, Juanjuan Zhao, and Chengzhong Xu, 
+*Fine-Grained Geo-Obfuscation to Protect Workers’ Location Privacy in Time-Sensitive Spatial Crowdsourcing*
