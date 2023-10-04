@@ -39,7 +39,7 @@ I am fortunate to work with several bright students:
     <div class="col-sm-4">
         <b>Xinpeng Xie</b> <br>
         Ph.D. student (2023 Fall --) <br><br>
-        Sensor perception <br><br>
+        Machine learning, vehicle information systems <br><br>
         Email: TBD <br>
         
     </div>
@@ -56,7 +56,7 @@ I am fortunate to work with several bright students:
     <div class="col-sm-4">
         <b>Gaoyi Chen</b> <br>
         Ph.D. student (2023 Fall --) <br><br>
-        Data privacy <br><br>
+        Machine learning, differential privacy <br><br>
         Email: TBD <br>
         
     </div>
@@ -73,7 +73,7 @@ I am fortunate to work with several bright students:
     <div class="col-sm-4">
         <b>Ruiyao Liu</b> <br>
         Ph.D. student (2023 Fall --) <br><br>
-        Data privacy <br><br>
+        Machine learning, optimization, multi-agent systems <br><br>
         Email: TBD <br>
         
     </div>
