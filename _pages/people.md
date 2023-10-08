@@ -73,7 +73,7 @@ I am fortunate to work with several bright students:
     <div class="col-sm-4">
         <b>Ruiyao Liu</b> <br>
         Ph.D. student (2023 Fall --) <br><br>
-        Machine learning, optimization, multi-agent systems <br><br>
+        Machine learning, reinforcement learning, multi-agent systems <br><br>
         Email: TBD <br>
         
     </div>
