@@ -15,9 +15,9 @@ ACM, Member
 
 **Conference Organization**
 
-Publicity chair of The IEEE International Conference on Fog and Edge Computing (ICFEC 2022)
+Publicity chair of The IEEE International Conference on Fog and Edge Computing (ICFEC) 2022, 2023
 
-Publicity chair of The IEEE International Conference on Computer Communications and Networks (ICCCN 2022)
+Publicity chair of The IEEE International Conference on Computer Communications and Networks (ICCCN) 2022
 
 Session chair of The ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI) 2021
 
@@ -34,6 +34,8 @@ Session chair of The IEEE International Conference on Distributed Computing Syst
 **Technical Programm Committee (TPC) Member**
 
 The ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL) 2022, 2023
+
+The EAI International Conference on Security and Privacy in Communication Networks (SecureComm) 2023, 2024
 
 The ACM Workshop on Privacy in the Electronic Society (WPES) 2022
 
