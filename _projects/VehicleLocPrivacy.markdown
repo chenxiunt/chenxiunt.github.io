@@ -49,9 +49,15 @@ Publications:
 
 ---
 
-**Task 3: Policy-driven location obfuscation**. 
+**Task 3: Vehicle Spatial Crowdsourcing (SC) Platform**. We have built a prototype of SC, which encompasses essential features such as task request/assignment and geo-obfuscation. To enhance user accessibility, we've created an Android application utilizing the Google Maps API, as depicted in Figure 4. The application enables users to register/log in as either a requester or a worker. Requesters can conveniently upload tasks with specified locations, while workers can download a Geo-Obfuscation (GO) matrix from the server. Using this matrix, a worker can choose an obfuscated location and potentially receive a task assignment from the server. Upon receiving a task, the worker has the option to accept it by clicking the "accept" button, triggering the display of a navigational route on the map guiding them to the task location.
 
-TBD. 
-
+<div class="row justify-content-md-center">
+    <div class="col-sm-9">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/SCmobile.png' | relative_url }}" alt="" title="SCmobileUserInterface"/>
+    </div>
+</div>
+<div class="caption">
+    Figure 4. User Interface: Task requester (left) and Worker (right). 
+</div>
 Publications: NA
 
