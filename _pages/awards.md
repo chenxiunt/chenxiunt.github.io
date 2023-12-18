@@ -5,9 +5,11 @@ title: Awards
 nav: true
 ---
 
-Outstanding Service Award in ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI), 2021 
+Outstanding Reviewer Award in the ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL), 2023
 
-Outstanding Service Award in IEEE International Conference on Mobile Ad hoc and Sensor Systems (MASS), 2019
+Outstanding Service Award in the ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI), 2021 
+
+Outstanding Service Award in the IEEE International Conference on Mobile Ad hoc and Sensor Systems (MASS), 2019
 
 George N. Saridis Best Transactions Paper Award in the IEEE Transactions on Intelligent Transportation Systems 2016
 
