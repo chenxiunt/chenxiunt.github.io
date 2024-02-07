@@ -88,6 +88,20 @@ I am fortunate to work with several bright students:
 
 -----------------------
 **Master Students**
+
+<br>
+
+<div class="row justify-content-md-center">
+    <div class="col-sm-3">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/people/Priya.jpg' | relative_url }}" alt="" title="Sourabh Yadav"/>
+    </div>
+    <div class="col-sm-4">
+        <b>Padma Priya Dirisala</b> <br>
+        Master student (2022 Spring --) <br><br>
+    </div>
+</div>  
+<br>
+
 * Padma Priya Dirisala (2023 Spring --)
 * Sheetal Gaddam (2023 Fall --) 
 
