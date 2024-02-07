@@ -88,7 +88,6 @@ I am fortunate to work with several bright students:
 
 -----------------------
 **Master Students**
-* Bharath Datta Chary Vadla (2022 Fall --)
 * Padma Priya Dirisala (2023 Spring --)
 * Sheetal Gaddam (2023 Fall --) 
 
@@ -106,7 +105,8 @@ I am fortunate to work with several bright students:
 * Ce Pang (B.S. at Rowan University, 2020) First employment: Software Engineer at Barclays Bank US. 
 * Pinal Mehta (M.S. at Rowan University, 2020) First employment: Software Engineer at IBM.  
 * Tanuja Polineni (M.S. at UNT, 2022) First employment: Software Engineer at Tricentis. 
-* Harshitha Gorrepati (M.S. at UNT, 2022) First employment: Associate Consultant at Red-Shift. 
+* Harshitha Gorrepati (M.S. at UNT, 2022) First employment: Associate Consultant at Red-Shift.
+* Bharath Datta Chary Vadla (M.S. at UNT, 2022) First employment: TBD.
 
 <div class="people">
 
