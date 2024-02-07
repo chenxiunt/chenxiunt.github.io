@@ -98,6 +98,8 @@ I am fortunate to work with several bright students:
     <div class="col-sm-4">
         <b>Padma Priya Dirisala</b> <br>
         Master student (2022 Spring --) <br><br>
+        Machine Learning, Automata theory, Computer Networks <br><br>
+        Email: padmapriyadirisala AT my.unt.edu. <br>
     </div>
     <div class="col-sm-5">
         Priya received her BS degree in Computer Science and Engineering in India from JNTUK. She worked on a project in her undergrad namely Institutional Digital Locker - a cloud-based platform verification of documents and certificates digitally. The service is aimed at reducing the students' need to carry physical documents.
