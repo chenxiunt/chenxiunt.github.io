@@ -105,7 +105,6 @@ I am fortunate to work with several bright students:
 </div>  
 <br>
 
-* Padma Priya Dirisala (2023 Spring --)
 * Sheetal Gaddam (2023 Fall --) 
 
 -----------------------
