@@ -100,7 +100,7 @@ I am fortunate to work with several bright students:
         Master student (2022 Spring --) <br><br>
     </div>
     <div class="col-sm-5">
-        TBD.  
+        Priya received her BS degree in Computer Science and Engineering in India from JNTUK. She worked on a project in her undergrad namely Institutional Digital Locker - a cloud-based platform verification of documents and certificates digitally. The service is aimed at reducing the students' need to carry physical documents.
     </div>  
 </div>  
 <br>
