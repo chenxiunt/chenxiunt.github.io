@@ -93,7 +93,7 @@ I am fortunate to work with several bright students:
 
 <div class="row justify-content-md-center">
     <div class="col-sm-3">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/people/Priya.jpg' | relative_url }}" alt="" title="Sourabh Yadav"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/people/Priya.jpg' | relative_url }}" alt="" title="Padma Priya Dirisala"/>
     </div>
     <div class="col-sm-4">
         <b>Padma Priya Dirisala</b> <br>
@@ -107,7 +107,21 @@ I am fortunate to work with several bright students:
 </div>  
 <br>
 
-* Sheetal Gaddam (2023 Fall --) 
+<div class="row justify-content-md-center">
+    <div class="col-sm-3">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/people/untlogo.png' | relative_url }}" alt="" title="Sourabh Yadav"/>
+    </div>
+    <div class="col-sm-4">
+        <b>Sheetal Reddy Gaddam </b> <br>
+        Master student (2022 Fall --) <br><br>
+        Networking, Machine learning, AWS, Data Migration, Software Engineering <br><br>
+        Email: SheetalGaddam AT my.unt.edu. <br>
+    </div>
+    <div class="col-sm-5">
+        Priya received Bachelor of Technology in Computer Science and Engineering from Jawaharlal Nehru Technological University, India .
+    </div>  
+</div>  
+<br>
 
 -----------------------
 **Undergraduate Students**
