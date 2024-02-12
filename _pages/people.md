@@ -118,7 +118,7 @@ I am fortunate to work with several bright students:
         Email: SheetalGaddam AT my.unt.edu. <br>
     </div>
     <div class="col-sm-5">
-        Priya received Bachelor of Technology in Computer Science and Engineering from Jawaharlal Nehru Technological University, India .
+        Sheetal received Bachelor of Technology in Computer Science and Engineering from Jawaharlal Nehru Technological University, India .
     </div>  
 </div>  
 <br>
