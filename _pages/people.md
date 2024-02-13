@@ -134,7 +134,7 @@ I am fortunate to work with several bright students:
     </div>
     <div class="col-sm-4">
         <b>Eichelle Turner</b> <br>
-        Master student (2023 Fall --) <br><br>
+        Undergraduate student (2023 Fall --) <br><br>
         Data Privacy <br><br>
     </div>
     <div class="col-sm-5">
