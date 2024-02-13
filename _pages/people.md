@@ -125,7 +125,25 @@ I am fortunate to work with several bright students:
 
 -----------------------
 **Undergraduate Students**
-* Eichelle Turner (2023 Fall --) 
+
+<br>
+
+<div class="row justify-content-md-center">
+    <div class="col-sm-3">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/people/Eichelle.jpg' | relative_url }}" alt="" title="Padma Priya Dirisala"/>
+    </div>
+    <div class="col-sm-4">
+        <b>Eichelle Turner</b> <br>
+        Master student (2023 Fall --) <br><br>
+        Data Privacy <br><br>
+    </div>
+    <div class="col-sm-5">
+        Eichelle Turner is a junior computer science student with an interest in Data Science. Her research is centered around Data Privacy when it comes to patient data in the medical field. She wants to show transparency in what user data is used for and see if the current techniques really are the best and most efficient options especially as machine learning and AI become more prevalent. 
+    </div>  
+</div>  
+
+<br>
+
 * Kelsey Nichols (2023 Fall --)
 * Tyler Hampton (2023 Fall --)
 
