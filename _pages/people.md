@@ -118,7 +118,7 @@ I am fortunate to work with several bright students:
         Email: SheetalGaddam AT my.unt.edu. <br>
     </div>
     <div class="col-sm-5">
-        Sheetal received Bachelor of Technology in Computer Science and Engineering from Jawaharlal Nehru Technological University, India .
+        Sheetal received Bachelor of Technology in Computer Science and Engineering from Jawaharlal Nehru Technological University, India. She worked as General support in Fujitsu Consulting India Pvt Ltd in the Enterprise cybersecurity services. 
     </div>  
 </div>  
 <br>
