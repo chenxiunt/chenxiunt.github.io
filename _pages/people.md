@@ -44,7 +44,7 @@ I am fortunate to work with several bright students:
         
     </div>
     <div class="col-sm-5">
-        Xinpeng received his BS degree in Automation from Sichuan University, P. R. China. 
+        Xinpeng received his BS degree in Automation from Sichuan University, P. R. China. His research primarily focuses on synthetic data geneartion, deep generative models. Currently, he is working on the cross-city vehicle trajectory genertion problem. 
     </div>  
 </div>  
 <br>
@@ -61,7 +61,7 @@ I am fortunate to work with several bright students:
         
     </div>
     <div class="col-sm-5">
-        Gaoyi received his BS degree in Telecommunication Engineering from Zhengzhou University, P. R. China.   
+        Gaoyi received his BS degree in Telecommunication Engineering from Zhengzhou University, P. R. China. His research interests primarily focus on metric differential privacy, with emphasis on context-aware threat models and data privacy protection problems. 
     </div>  
 </div>  
 <br>
@@ -78,7 +78,7 @@ I am fortunate to work with several bright students:
         
     </div>
     <div class="col-sm-5">
-        Ruiyao received his BS degree in Automation from Sichuan University, P. R. China.  
+        Ruiyao received his BS degree in Automation from Sichuan University, P. R. China. His research interests include metric differential privacy and multi-agent systems. Currently, he is working on enhancing the computation efficiency of large-scale data perturbation algorithms. 
     </div>  
 </div>  
 <br>
