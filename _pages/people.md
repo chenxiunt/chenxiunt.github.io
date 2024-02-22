@@ -98,7 +98,7 @@ I am fortunate to work with several bright students:
     <div class="col-sm-4">
         <b>Padma Priya Dirisala</b> <br>
         Master student (2022 Spring --) <br><br>
-        Machine Learning, Automata theory, Computer Networks <br><br>
+        Machine Learning, automata theory, computer networks <br><br>
         Email: padmapriyadirisala AT my.unt.edu. <br>
     </div>
     <div class="col-sm-5">
@@ -114,7 +114,7 @@ I am fortunate to work with several bright students:
     <div class="col-sm-4">
         <b>Sheetal Reddy Gaddam </b> <br>
         Master student (2022 Fall --) <br><br>
-        Networking, Machine learning, AWS, Data Migration, Software Engineering <br><br>
+        Networking, machine Learning, AWS, data Migration, Software Engineering <br><br>
         Email: SheetalGaddam AT my.unt.edu. <br>
     </div>
     <div class="col-sm-5">
@@ -135,17 +135,31 @@ I am fortunate to work with several bright students:
     <div class="col-sm-4">
         <b>Eichelle Turner</b> <br>
         Undergraduate student (2023 Fall --) <br><br>
-        Data Privacy <br><br>
+        Data privacy <br><br>
     </div>
     <div class="col-sm-5">
         Eichelle Turner is a junior computer science student with an interest in Data Science. Her research is centered around Data Privacy when it comes to patient data in the medical field. She wants to show transparency in what user data is used for and see if the current techniques really are the best and most efficient options especially as machine learning and AI become more prevalent. 
+    </div>  
+</div>  
+<br>
+
+<div class="row justify-content-md-center">
+    <div class="col-sm-3">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/people/Tyler.jpg' | relative_url }}" alt="" title="Padma Priya Dirisala"/>
+    </div>
+    <div class="col-sm-4">
+        <b>Tyler Hampton</b> <br>
+        Undergraduate student (2023 Fall --) <br><br>
+        Data structure, algorithms, and simulation of physical processes <br><br>
+    </div>
+    <div class="col-sm-5">
+        Tyler Hampton is a computer science major in their senior year. His research interests include data structures, algorithms and the simulation of physical processes.
     </div>  
 </div>  
 
 <br>
 
 * Kelsey Nichols (2023 Fall --)
-* Tyler Hampton (2023 Fall --)
 
 -----------------------
 **Alumni**
