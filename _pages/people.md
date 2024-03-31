@@ -3,7 +3,7 @@ layout: page
 permalink: /People/
 title: People
 roles: [Director, Ph.D., Master, Undergraduate]
-nav: false
+nav: true
 ---
 
 I am fortunate to work with several bright students:
