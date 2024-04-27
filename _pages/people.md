@@ -165,6 +165,8 @@ I am fortunate to work with several bright students:
 **High School Students**
 
 * Harini X Champooranan, Coppell High School (2024 Spring --)
+
+
 -----------------------
 **Alumni**
 
