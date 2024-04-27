@@ -162,6 +162,10 @@ I am fortunate to work with several bright students:
 * Kelsey Nichols (2023 Fall --)
 
 -----------------------
+**High School Students**
+
+* Harini X Champooranan, Coppell High School (2024 Spring --)
+-----------------------
 **Alumni**
 
 * Ervin Centeno (B.S. at Rowan University, 2019) First employment: Digital Associate at Wal Mart
