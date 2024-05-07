@@ -33,7 +33,9 @@ Session chair of The IEEE International Conference on Distributed Computing Syst
 
 **Technical Programm Committee (TPC) Member**
 
-The ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL) 2022, 2023
+The ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL) 2022, 2023, 2024
+
+The ACM The Conference on Information and Knowledge Management (CIKM) 2024
 
 The EAI International Conference on Security and Privacy in Communication Networks (SecureComm) 2023, 2024
 
