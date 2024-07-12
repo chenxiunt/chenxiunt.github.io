@@ -83,6 +83,23 @@ I am fortunate to work with several bright students:
 </div>  
 <br>
 
+<div class="row justify-content-md-center">
+    <div class="col-sm-3">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/people/Oluwole.jpg' | relative_url }}" alt="" title="Ruiyao Liu"/>
+    </div>
+    <div class="col-sm-4">
+        <b>Ruiyao Liu</b> <br>
+        Ph.D. student (2024 Fall --) <br><br>
+        TBD <br><br>
+        Email: TBD <br>
+        
+    </div>
+    <div class="col-sm-5">
+        Ruiyao received his BS degree in Physics from the University of Ibadan, Nigeria. He worked as a graduate assistant at Moshood Abiola Polytechnic and a Full Stack Web Developer at SGL Technologies. 
+    </div>  
+</div>  
+<br>
+
 <br clear="left"/>
 
 
