@@ -100,6 +100,23 @@ I am fortunate to work with several bright students:
 </div>  
 <br>
 
+<div class="row justify-content-md-center">
+    <div class="col-sm-3">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/people/untlogo.png' | relative_url }}" alt="" title="Fatema Khatun Mou"/>
+    </div>
+    <div class="col-sm-4">
+        <b>Fatema Khatun Mou</b> <br>
+        Ph.D. student (2024 Fall --) <br><br>
+        TBD <br><br>
+        Email: TBD <br>
+        
+    </div>
+    <div class="col-sm-5">
+        TBD
+    </div>  
+</div>  
+<br>
+
 <br clear="left"/>
 
 
