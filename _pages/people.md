@@ -107,12 +107,12 @@ I am fortunate to work with several bright students:
     <div class="col-sm-4">
         <b>Fatema Khatun Mou</b> <br>
         Ph.D. student (2024 Fall --) <br><br>
-        Large language models (LLMs), metric differential privacy, artificial intelligence <br><br>
+        Large language models (LLMs), metric differential privacy, machine learning, artificial intelligence <br><br>
         Email: fatemakhatun AT my.unt.edu <br>
         
     </div>
     <div class="col-sm-5">
-        Fatema Khatun holds a Bachelor's degree in Computer Science and Engineering. She served as a faculty member in the Department of Computer Science and Engineering at Daffodil International University, Dhaka Bangladesh. Additionally, she has held the position of Head of Research and Development at a multinational company in Bangladesh. Her research interests encompass large language models (LLMs), metric differential privacy, machine learning, and artificial intelligence.
+        Fatema Khatun holds a Bachelor's degree in Computer Science and Engineering. She served as a faculty member in the Department of Computer Science and Engineering at Daffodil International University, Dhaka Bangladesh. Additionally, she has held the position of Head of Research and Development at a multinational company in Bangladesh. 
     </div>  
 </div>  
 <br>
