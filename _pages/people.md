@@ -102,17 +102,17 @@ I am fortunate to work with several bright students:
 
 <div class="row justify-content-md-center">
     <div class="col-sm-3">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/people/untlogo.png' | relative_url }}" alt="" title="Fatema Khatun Mou"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/people/Fatema.jpg' | relative_url }}" alt="" title="Fatema Khatun Mou"/>
     </div>
     <div class="col-sm-4">
         <b>Fatema Khatun Mou</b> <br>
         Ph.D. student (2024 Fall --) <br><br>
         TBD <br><br>
-        Email: TBD <br>
+        Email: fatemakhatun AT my.unt.edu <br>
         
     </div>
     <div class="col-sm-5">
-        TBD
+        Fatema Khatun holds a Bachelor's degree in Computer Science and Engineering. She served as a faculty member in the Department of Computer Science and Engineering at Daffodil International University, Dhaka Bangladesh. Additionally, she has held the position of Head of Research and Development at a multinational company in Bangladesh. Her research interests encompass large language models (LLMs), metric differential privacy, machine learning, and artificial intelligence.
     </div>  
 </div>  
 <br>
