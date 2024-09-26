@@ -90,7 +90,7 @@ I am fortunate to work with several bright students:
     <div class="col-sm-4">
         <b>Michael Oluwole</b> <br>
         Ph.D. student (2024 Fall --) <br><br>
-        TBD <br><br>
+        Metric differential privacy, computer vision <br><br>
         Email: TBD <br>
         
     </div>
@@ -107,7 +107,7 @@ I am fortunate to work with several bright students:
     <div class="col-sm-4">
         <b>Fatema Khatun Mou</b> <br>
         Ph.D. student (2024 Fall --) <br><br>
-        TBD <br><br>
+        Large language models (LLMs), metric differential privacy, artificial intelligence <br><br>
         Email: fatemakhatun AT my.unt.edu <br>
         
     </div>
