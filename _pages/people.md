@@ -108,7 +108,7 @@ I am fortunate to work with several bright students:
         <b>Fatema Khatun Mou</b> <br>
         Ph.D. student (2024 Fall --) <br><br>
         Large language models (LLMs), metric differential privacy, machine learning, artificial intelligence <br><br>
-        Email: fatemakhatun AT my.unt.edu <br>
+        Email: fatemakhatun AT my DOT unt DOT edu <br>
         
     </div>
     <div class="col-sm-5">
