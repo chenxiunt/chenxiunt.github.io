@@ -14,6 +14,12 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+    - name: Update Bundler
+      run: gem update bundler
+    - name: Install dependencies
+      run: bundle install
+    - name: Build Jekyll site
+      run: bundle exec jekyll build 
     - name: Checkout code
       uses: actions/checkout@v3
     - name: Setup Ruby
@@ -40,3 +46,4 @@ jobs:
       run:  yes | bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
                     --src ${{ steps.setup.outputs.SRC_BRANCH }} 
                     --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
+
