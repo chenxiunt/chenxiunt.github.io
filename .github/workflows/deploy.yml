@@ -23,8 +23,11 @@ jobs:
         bundler-cache: true
     - name: Install deps
       run: |
-        npm install -g mermaid.cli
-    - name: Setup deploy options
+        gem update --system
+        gem install bundler
+        bundle update --bundler
+        bundle update uri
+        npm install -g mermaid.cli    - name: Setup deploy options
       id: setup
       run: |
         git config --global user.name "GitHub Action"
