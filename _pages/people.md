@@ -88,7 +88,8 @@ I am fortunate to work with several bright students:
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/people/Oluwole.jpg' | relative_url }}" alt="" title="Ruiyao Liu"/>
     </div>
     <div class="col-sm-4">
-        <b>Michael Oluwole</b> <br>
+        <b><a href="[https://scholar.google.com/citations?user=Luc18E4AAAAJ&hl=en](https://michaeloluwole.com/)">Michael Oluwole</a>
+        </b> <br>
         Ph.D. student (2024 Fall --) <br><br>
         Metric differential privacy, computer vision <br><br>
         Email: TBD <br>
