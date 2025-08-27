@@ -14,24 +14,6 @@ I am fortunate to work with several bright students:
 
 
 <br>
-
-<div class="row justify-content-md-center">
-    <div class="col-sm-3">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/people/Sourabh.png' | relative_url }}" alt="" title="Sourabh Yadav"/>
-    </div>
-    <div class="col-sm-4">
-        <b>Sourabh Yadav</b> <br>
-        Ph.D. student (2022 Spring --) <br><br>
-        Data privacy, Machine Learning, Deep Learning, and Blockchain <br><br>
-        Email: Sourabh.Yadav AT unt.edu <br>
-        <a href="https://scholar.google.com/citations?user=Luc18E4AAAAJ&hl=en">Google scholar</a>
-    </div>
-    <div class="col-sm-5">
-        Sourabh received his MS degree in Artificial Intelligence and Robotics and have been an active researcher in the subject since 2018. Currently, he is working on location privacy protection in time-sensitive spatial crowdsourcing and cooperative perception of autonomous vehicles. He is leading the project "<a href="https://chenxiunt.github.io/projects/SpatialAgent/">SpatialAgent</a>" in MCLab. 
-    </div>  
-</div>  
-<br>
-
 <div class="row justify-content-md-center">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/people/Xinpeng.png' | relative_url }}" alt="" title="Xinpeng Xie"/>
@@ -186,14 +168,17 @@ I am fortunate to work with several bright students:
 
 -----------------------
 **Alumni**
-
+* Sourabh Yadav (Ph.D at UNT, 2025) First employment: Data Scientist at Amazon.
+* Harshitha Gorrepati (M.S. at UNT, 2022) First employment: Associate Consultant at Red-Shift.
+* Tanuja Polineni (M.S. at UNT, 2022) First employment: Software Engineer at Tricentis.
+* Pinal Mehta (M.S. at Rowan University, 2020) First employment: Software Engineer at IBM.
+* Ce Pang (B.S. at Rowan University, 2020) First employment: Software Engineer at Barclays Bank US. 
 * Ervin Centeno (B.S. at Rowan University, 2019) First employment: Digital Associate at Wal Mart
 * Shangwen Ma (B.S. at Rowan University, 2019) Transferred to University of Colorado Boulder
-* Ce Pang (B.S. at Rowan University, 2020) First employment: Software Engineer at Barclays Bank US. 
-* Pinal Mehta (M.S. at Rowan University, 2020) First employment: Software Engineer at IBM.  
-* Tanuja Polineni (M.S. at UNT, 2022) First employment: Software Engineer at Tricentis. 
-* Harshitha Gorrepati (M.S. at UNT, 2022) First employment: Associate Consultant at Red-Shift.
-* Bharath Datta Chary Vadla (M.S. at UNT, 2022) First employment: TBD.
+
+
+
+
 
 <div class="people">
 
@@ -203,4 +188,5 @@ I am fortunate to work with several bright students:
 {% endfor %}
 
 </div>
+
 
