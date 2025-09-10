@@ -168,7 +168,7 @@ I am fortunate to work with several bright students:
 
 -----------------------
 **Alumni**
-* Sourabh Yadav (Ph.D at UNT, 2025) First employment: Data Scientist at Amazon.
+* Sourabh Yadav (Ph.D at UNT, 2025) First employment: Applied Scientist at Amazon.
 * Harshitha Gorrepati (M.S. at UNT, 2022) First employment: Associate Consultant at Red-Shift.
 * Tanuja Polineni (M.S. at UNT, 2022) First employment: Software Engineer at Tricentis.
 * Pinal Mehta (M.S. at Rowan University, 2020) First employment: Software Engineer at IBM.
@@ -188,5 +188,6 @@ I am fortunate to work with several bright students:
 {% endfor %}
 
 </div>
+
 
 
