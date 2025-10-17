@@ -5,6 +5,8 @@ title: Awards
 nav: true
 ---
 
+Distinguished Paper Award in the ACM Conference on Computer and Communications Security (CCS), 2025
+
 Outstanding Reviewer Award in the ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL), 2023
 
 Outstanding Service Award in the ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI), 2021 
@@ -22,5 +24,6 @@ NSF Student Travel Grant, IEEE International Conference on Big Data, 2015
 Harris Outstanding Researcher Award, Department of ECE, Clemson University, 2014
 
 Honorable Mention of Interdisciplinary Contest in Modeling (ICM), Consortium for Mathematics and Its Applications (COMAP), 2008
+
 
 
