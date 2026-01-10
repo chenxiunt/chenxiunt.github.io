@@ -22,9 +22,10 @@ Dr. Qiu received his Ph.D. degree in The Holcombe Department of Electrical and C
 
 Dr. Qiu's research interests span the areas of **statistical privacy** and **optimization for privacy**. His research results have been published in highly-competitive conferences and journals (e.g., CCS, USENIX Security, PETS, INFOCOM, AAMAS, IJCAI, EDBT, SIGSPATIAL, IPSN, ICDCS, CIKM, Transactions on Networking (ToN), Transactions on Cloud Computing (TCC), Transactions on Mobile Computing (TMC), Transactions on Parallel and Distributed Systems (TPDS), and Transactions on Computers (TC)). His research has received **Distinguished Paper Award at CCS 2025**, **Best Transactions Paper Award at IEEE T-ITS**, and **Best Paper Award at CloudCom 2016**. His CV can be found [here](https://github.com/chenxiunt/chenxiunt.github.io/blob/master/assets/pdf/CV.pdf). 
 
-**To prospective students: Multiple research assistant positions are available. I am looking for self-motivated students with a keen interest in algorithm design, mathematical modeling, and optimization. If you are interested, please e-mail me with your CV and transcripts.**
+To prospective students: Multiple research assistant positions are available. I am looking for self-motivated students with a keen interest in algorithm design, mathematical modeling, and optimization. If you are interested, please e-mail me with your CV and transcripts.
 
 ---
+
 
 
 
