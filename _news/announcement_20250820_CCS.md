@@ -4,10 +4,8 @@ date: 2025-08-20 17:59:00-0400
 inline: true
 ---
 
-![ACM CCS 2025]({{ '/assets/img/ccs2025.png' | relative_url }})
-
 One full paper was accepted to **ACM CCS 2025**. Congratulations to Ruiyao!![Artifact Evaluation badges (Available, Functional, Reproduced)](/assets/img/logo/badge.png)
-<img src="{{ '/assets/img/logo/badge.png' | relative_url }}"
-     alt="Artifact Evaluation badges (Available, Functional, Reproduced)"
-     width="520"
-     style="display:block; margin: 0 auto;">
+
+<img src="{{ '/assets/img/usenix-ae-badges.png' | relative_url }}"
+     alt="Artifact Evaluation badges"
+     width="420">
