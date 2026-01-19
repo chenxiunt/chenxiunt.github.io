@@ -6,6 +6,6 @@ inline: true
 
 One full paper was accepted to **ACM CCS 2025**. Congratulations to Ruiyao!![Artifact Evaluation badges (Available, Functional, Reproduced)](/assets/img/logo/badge.png)
 
-<img src="{{ '/assets/img/logo/badge.png' | relative_url }}"
+<img src="{{'/assets/img/logo/badge.png' | relative_url}}"
      alt="Artifact Evaluation badges"
      width="420">
