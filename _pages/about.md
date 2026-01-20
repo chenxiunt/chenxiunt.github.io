@@ -20,11 +20,12 @@ Before joining UNT, he worked as an assistant professor in the Department of Com
  
 Dr. Qiu received his Ph.D. degree in The Holcombe Department of Electrical and Computer Engineering at Clemson University in 2015 and his B.Engr. degree in Telecommunication Engineering from Xidian University in China in 2009. 
 
-Dr. Qiu's research interests span the areas of **statistical privacy** and **optimization for privacy**. His research results have been published in highly-competitive conferences and journals (e.g., CCS, USENIX Security, PETS, INFOCOM, AAMAS, IJCAI, EDBT, SIGSPATIAL, IPSN, ICDCS, CIKM, Transactions on Networking (ToN), Transactions on Cloud Computing (TCC), Transactions on Mobile Computing (TMC), Transactions on Parallel and Distributed Systems (TPDS), and Transactions on Computers (TC)). His research has received **Distinguished Paper Award at CCS 2025**, **Best Transactions Paper Award at IEEE T-ITS**, and **Best Paper Award at CloudCom 2016**. His CV can be found [here](https://github.com/chenxiunt/chenxiunt.github.io/blob/master/assets/pdf/CV.pdf). 
+Dr. Qiu's research interests span the areas of **statistical privacy** and **optimization for privacy**, principled solutions with rigorous privacy guarantees and provable utility–efficiency trade-offs. His research results have been published in top-tier conferences and journals (e.g., CCS, USENIX Security, PETS, INFOCOM, AAMAS, IJCAI, EDBT, SIGSPATIAL, IPSN, ICDCS, CIKM, Transactions on Networking (ToN), Transactions on Cloud Computing (TCC), Transactions on Mobile Computing (TMC), Transactions on Parallel and Distributed Systems (TPDS), and Transactions on Computers (TC)). His research has received a **Distinguished Paper Award at CCS 2025**, **Best Transactions Paper Award at IEEE T-ITS**, and **Best Paper Award at CloudCom 2016**. His CV can be found [here](https://github.com/chenxiunt/chenxiunt.github.io/blob/master/assets/pdf/CV.pdf). 
 
 <!--To prospective students: Multiple research assistant positions are available. I am looking for self-motivated students with a keen interest in algorithm design, mathematical modeling, and optimization. If you are interested, please e-mail me with your CV and transcripts. --> 
 
 ---
+
 
 
 
