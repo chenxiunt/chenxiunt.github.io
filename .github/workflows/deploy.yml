@@ -15,38 +15,40 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v6
 
-    - name: Setup Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: '3.1.4'  # Use a newer Ruby version
-        bundler-cache: true
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1.4'
+          bundler-cache: true
 
-    - name: Install dependencies
-      run: |
-        gem update --system
-        gem install bundler
-        bundle update --bundler
-        bundle update uri
-        npm install -g mermaid.cli
+      - name: Install dependencies
+        run: |
+          gem update --system
+          gem install bundler
+          bundle update --bundler
+          bundle update uri
+          npm install -g @mermaid-js/mermaid-cli
 
-    - name: Setup deploy options
-      id: setup
-      run: |
-        git config --global user.name "GitHub Action"
-        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        if [[ ${GITHUB_REF} = refs/pull/*/merge ]]; then # pull request
-          echo "SRC_BRANCH=${GITHUB_HEAD_REF}" >> $GITHUB_OUTPUT
-          echo "NO_PUSH=--no-push" >> $GITHUB_OUTPUT
-        elif [[ ${GITHUB_REF} = refs/heads/* ]]; then # branch, e.g. master, source etc
-          echo "SRC_BRANCH=${GITHUB_REF#refs/heads/}" >> $GITHUB_OUTPUT
-        fi
-        echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_OUTPUT
+      - name: Setup deploy options
+        id: setup
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-    - name: Deploy website
-      run: |
-        yes | bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }} \
-                              --src ${{ steps.setup.outputs.SRC_BRANCH }} \
-                              --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }}
+          if [[ ${GITHUB_REF} = refs/pull/*/merge ]]; then
+            echo "SRC_BRANCH=${GITHUB_HEAD_REF}" >> $GITHUB_OUTPUT
+            echo "NO_PUSH=--no-push" >> $GITHUB_OUTPUT
+          elif [[ ${GITHUB_REF} = refs/heads/* ]]; then
+            echo "SRC_BRANCH=${GITHUB_REF#refs/heads/}" >> $GITHUB_OUTPUT
+          fi
+
+          echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_OUTPUT
+
+      - name: Deploy website
+        run: |
+          yes | bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }} \
+            --src ${{ steps.setup.outputs.SRC_BRANCH }} \
+            --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }}
