@@ -4,7 +4,7 @@ gem 'jekyll'
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
-    gem 'jekyll-3rd-party-libraries'
+    # gem 'jekyll-3rd-party-libraries'
     gem 'jekyll-archives'
     gem 'jekyll-cache-bust'
     gem 'jekyll-diagrams'  # <--- ADD THIS LINE HERE
