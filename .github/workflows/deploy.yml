@@ -25,7 +25,8 @@ jobs:
       with:
         ruby-version: '3.3'  # Use a newer Ruby version
         bundler-cache: true
-
+        cache-version: fallback-v1 # <--- ADD THIS LINE HERE
+        
     - name: Install dependencies
       run: |
         gem update --system
