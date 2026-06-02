@@ -24,8 +24,9 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.3'  # Use a newer Ruby version
-        bundler-cache: true
-        cache-version: fallback-v1 # <--- ADD THIS LINE HERE
+        # --- CHANGE THIS TO NONE TO BYPASS THE EARLY CRASH ---
+        bundler: none 
+        # -----------------------------------------------------
         
     - name: Install dependencies
       run: |
