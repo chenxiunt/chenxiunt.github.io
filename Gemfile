@@ -7,6 +7,7 @@ group :jekyll_plugins do
     gem 'jekyll-3rd-party-libraries'
     gem 'jekyll-archives'
     gem 'jekyll-cache-bust'
+    gem 'jekyll-diagrams'  # <--- ADD THIS LINE HERE
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
     gem 'jekyll-get-json'
