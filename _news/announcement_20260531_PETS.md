@@ -4,4 +4,4 @@ date: 2026-05-31 17:59:00-0400
 inline: true
 ---
 
-One SoK paper was accepted to **PETS 2026**. Congratulations to Michael, Chenyang Yu, and our collaborators!
+One SoK paper was accepted to **PETS 2026**. Congratulations to Xinpeng, Chenyang, and our collaborators!
