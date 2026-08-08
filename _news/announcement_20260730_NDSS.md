@@ -4,7 +4,7 @@ date: 2026-07-30 17:59:00-0400
 inline: true
 ---
 
-One full paper was accepted to ${\color{#FF8C00}\text{NDSS}}$. Congratulations to Michael, Ruiyao, and Aleksander!
+One full paper was accepted to ${\color{#FF8C00}\mathsf{NDSS}}$. Congratulations to Michael, Ruiyao, and Aleksander!
 
 
 
