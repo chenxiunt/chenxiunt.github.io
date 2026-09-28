@@ -60,7 +60,7 @@ horizontal: false
 
 **PI**, “*Collaborative Research: EAGER: Toward Provenance-Based Explainable Differential Privacy*”, **NSF**, 10/01/2026 - 09/30/2028, **$149,920**
 
-**Sole PI**, “*SaTC: CORE: Small: Customizable Geo-Obfuscation to Protect Users' Location Privacy in Mobile Crowdsourcing*”, **NSF**, 07/01/2023 - 06/30/2026, **$344,997**
+**Sole PI**, “*SaTC: CORE: Small: Customizable Geo-Obfuscation to Protect Users' Location Privacy in Mobile Crowdsourcing*”, **NSF**, 07/01/2023 - 06/30/2027, **$344,997**
 
 **Completed Projects**
 
