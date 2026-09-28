@@ -58,11 +58,13 @@ horizontal: false
 
 **Active Projects**
 
+**PI**, “*Collaborative Research: EAGER: Toward Provenance-Based Explainable Differential Privacy*”, **NSF**, 10/01/2026 - 09/30/2028, **$149,920**
+
 **Sole PI**, “*SaTC: CORE: Small: Customizable Geo-Obfuscation to Protect Users' Location Privacy in Mobile Crowdsourcing*”, **NSF**, 07/01/2023 - 06/30/2026, **$344,997**
 
-**PI**, “*Collaborative Research: SaTC: CORE: Small: Privacy protection of Vehicles location in Spatial Crowdsourcing under realistic adversarial models*”, **NSF**, 01/01/2021 - 12/31/2024, **$227,107 + $16,000 (REU Supplement)**
-
 **Completed Projects**
+
+**PI**, “*Collaborative Research: SaTC: CORE: Small: Privacy protection of Vehicles location in Spatial Crowdsourcing under realistic adversarial models*”, **NSF**, 01/01/2021 - 12/31/2024, **$227,107 + $16,000 (REU Supplement)**
 
 **Co-PI**, “*Power Grid SCADA System Security Solution Evaluation*”, **Protect Our Power**, 08/01/2020 - 01/31/2021, Shared credit: **$12,500**
 
